@@ -1,7 +1,7 @@
 "use client";
 
 import { dictType } from "@/dictionaries";
-import { ArrowRight, Eye, Check } from "lucide-react";
+import { ArrowRight, Check } from "lucide-react";
 
 export default function Hero({ dict }: { dict: dictType }) {
   return (

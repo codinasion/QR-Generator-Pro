@@ -61,7 +61,7 @@ export default function Testimonials({ dict }: { dict: dictType }) {
                 ))}
               </div>
               <blockquote className="text-xl text-gray-800 mb-4">
-                "{testimonials[activeTestimonial].content}"
+                &quot;{testimonials[activeTestimonial].content}&quot;
               </blockquote>
               <div>
                 <div className="font-semibold text-gray-900">
