@@ -12,7 +12,7 @@ export default function Comment() {
         category="General"
         categoryId="DIC_kwDOMV2tws4CuIXF"
         mapping="specific"
-        term="WhatIsMyIP"
+        term="QR Generator Pro"
         strict="1"
         reactionsEnabled="1"
         emitMetadata="0"

@@ -1,7 +1,4 @@
-"use client";
-
 import { getDictionary, langListData, langType } from "@/dictionaries";
-import React, { useState, useRef, useEffect } from "react";
 import Navbar from "./navbar";
 import Hero from "./hero";
 import Component from "./component";
