@@ -4,7 +4,7 @@ import Giscus from "@giscus/react";
 
 export default function Comment() {
   return (
-    <section className="mx-4 md:max-w-4xl md:mx-auto mb-8">
+    <section className="mx-4 md:max-w-4xl md:mx-auto my-8">
       <Giscus
         id="comments"
         repo="codinasion/.github"
