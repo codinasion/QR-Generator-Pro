@@ -1,19 +1,21 @@
-export default function UseCases() {
+import { dictType } from "@/dictionaries";
+
+export default function UseCases({ dict }: { dict: dictType }) {
   const useCases = [
     {
       icon: "🍽️",
-      title: "Restaurant Menus",
-      desc: "Contactless dining experiences",
+      title: dict.use_cases.text_3,
+      desc: dict.use_cases.text_4,
     },
-    { icon: "🎫", title: "Event Tickets", desc: "Seamless check-in processes" },
+    { icon: "🎫", title: dict.use_cases.text_5, desc: dict.use_cases.text_6 },
     {
       icon: "💼",
-      title: "Business Cards",
-      desc: "Digital networking solutions",
+      title: dict.use_cases.text_7,
+      desc: dict.use_cases.text_8,
     },
-    { icon: "📱", title: "App Downloads", desc: "Direct app store links" },
-    { icon: "💰", title: "Payment Links", desc: "Quick payment processing" },
-    { icon: "📍", title: "Location Sharing", desc: "GPS coordinates and maps" },
+    { icon: "📱", title: dict.use_cases.text_9, desc: dict.use_cases.text_10 },
+    { icon: "💰", title: dict.use_cases.text_11, desc: dict.use_cases.text_12 },
+    { icon: "📍", title: dict.use_cases.text_13, desc: dict.use_cases.text_14 },
   ];
 
   return (
@@ -21,11 +23,10 @@ export default function UseCases() {
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold text-gray-900 mb-4">
-            Perfect for Every Industry
+            {dict.use_cases.text_1}
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            From restaurants to events, our QR codes adapt to your specific
-            needs and industry requirements.
+            {dict.use_cases.text_2}
           </p>
         </div>
 

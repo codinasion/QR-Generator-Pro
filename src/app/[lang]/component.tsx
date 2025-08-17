@@ -1,5 +1,6 @@
 "use client";
 
+import { dictType } from "@/dictionaries";
 import { Download, QrCode, Upload } from "lucide-react";
 import React, { useState, useRef, useEffect } from "react";
 
@@ -34,7 +35,7 @@ const generateQRCode = async (text: string, options: any = {}) => {
   }
 };
 
-export default function Component() {
+export default function Component({ dict }: { dict: dictType }) {
   const [text, setText] = useState("https://example.com");
   const [qrCode, setQrCode] = useState("");
   const [logoFile, setLogoFile] = useState<File | null>(null);
@@ -151,36 +152,36 @@ export default function Component() {
   };
 
   return (
-    <section className="py-16 px-4 sm:px-6 lg:px-8 bg-white">
+    <section className="py-16 px-4 sm:px-6 lg:px-8 bg-white" id="component">
       <div className="max-w-6xl mx-auto">
         <div className="grid lg:grid-cols-2 gap-12 items-start">
           {/* Controls */}
           <div className="space-y-6">
             <h2 className="text-3xl font-bold text-gray-900 mb-6">
-              Generate Your QR Code
+              {dict.component.text_1}
             </h2>
 
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-2">
-                Content (URL, Text, Email, Phone, WiFi, etc.)
+                {dict.component.text_2}
               </label>
               <textarea
                 value={text}
                 onChange={(e) => setText(e.target.value)}
-                placeholder="Enter URL, text, email, phone number, or any content..."
+                placeholder={dict.component.text_3}
                 className="w-full p-4 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent resize-none bg-white text-gray-900 placeholder-gray-500"
                 rows={3}
               />
               <p className="text-xs text-gray-500 mt-1">
-                Examples: https://website.com, mailto:email@domain.com,
-                tel:+1234567890
+                {dict.component.text_4}: https://website.com,
+                mailto:email@domain.com, tel:+1234567890
               </p>
             </div>
 
             <div className="grid grid-cols-2 gap-4">
               <div>
                 <label className="block text-sm font-medium text-gray-700 mb-2">
-                  Error Correction Level
+                  {dict.component.text_5}
                 </label>
                 <select
                   value={errorLevel}
@@ -188,22 +189,22 @@ export default function Component() {
                   className="w-full p-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent bg-white text-gray-900"
                 >
                   <option value="L" className="text-gray-900">
-                    Low (7%)
+                    {dict.component.text_6}
                   </option>
                   <option value="M" className="text-gray-900">
-                    Medium (15%)
+                    {dict.component.text_7}
                   </option>
                   <option value="Q" className="text-gray-900">
-                    Quartile (25%)
+                    {dict.component.text_8}
                   </option>
                   <option value="H" className="text-gray-900">
-                    High (30%)
+                    {dict.component.text_9}
                   </option>
                 </select>
               </div>
               <div>
                 <label className="block text-sm font-medium text-gray-700 mb-2">
-                  Download Format
+                  {dict.component.text_10}
                 </label>
                 <select
                   value={qrFormat}
@@ -211,13 +212,13 @@ export default function Component() {
                   className="w-full p-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-500 focus:border-transparent bg-white text-gray-900"
                 >
                   <option value="PNG" className="text-gray-900">
-                    PNG (Recommended)
+                    {dict.component.text_11}
                   </option>
                   <option value="JPG" className="text-gray-900">
-                    JPG
+                    {dict.component.text_12}
                   </option>
                   <option value="SVG" className="text-gray-900">
-                    SVG (Vector)
+                    {dict.component.text_13}
                   </option>
                 </select>
               </div>
@@ -226,7 +227,7 @@ export default function Component() {
             <div className="grid grid-cols-2 gap-4">
               <div>
                 <label className="block text-sm font-medium text-gray-700 mb-2">
-                  Foreground Color
+                  {dict.component.text_14}
                 </label>
                 <div className="flex items-center space-x-2">
                   <input
@@ -246,7 +247,7 @@ export default function Component() {
               </div>
               <div>
                 <label className="block text-sm font-medium text-gray-700 mb-2">
-                  Background Color
+                  {dict.component.text_15}
                 </label>
                 <div className="flex items-center space-x-2">
                   <input
@@ -268,7 +269,7 @@ export default function Component() {
 
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-2">
-                Size: {size}px
+                {dict.component.text_16}: {size}px
               </label>
               <input
                 type="range"
@@ -287,15 +288,13 @@ export default function Component() {
 
             <div>
               <label className="block text-sm font-medium text-gray-700 mb-2">
-                Upload Logo (Optional)
+                {dict.component.text_17}
               </label>
               <div className="border-2 border-dashed border-gray-300 rounded-lg p-6 text-center hover:border-blue-500 transition-colors">
                 <Upload className="w-8 h-8 text-gray-400 mx-auto mb-2" />
-                <p className="text-gray-600 mb-2">
-                  Drag & drop your logo or click to browse
-                </p>
+                <p className="text-gray-600 mb-2">{dict.component.text_18}</p>
                 <p className="text-xs text-gray-500 mb-2">
-                  Recommended: Square images, PNG/JPG, max 2MB
+                  {dict.component.text_19}
                 </p>
                 <input
                   type="file"
@@ -310,7 +309,7 @@ export default function Component() {
                   htmlFor="logo-upload"
                   className="inline-block bg-blue-50 hover:bg-blue-100 text-blue-700 px-4 py-2 rounded-lg cursor-pointer transition-colors border border-blue-200 font-medium"
                 >
-                  Choose File
+                  {dict.component.text_20}
                 </label>
                 {logoFile && (
                   <div className="mt-3 p-2 bg-green-50 rounded-lg">
@@ -319,7 +318,7 @@ export default function Component() {
                       onClick={() => handleLogoUpload(null)}
                       className="text-xs text-red-600 hover:text-red-800 mt-1"
                     >
-                      Remove Logo
+                      {dict.component.text_21}
                     </button>
                   </div>
                 )}
@@ -330,7 +329,7 @@ export default function Component() {
           {/* Preview and Download */}
           <div className="text-center">
             <h3 className="text-xl font-semibold text-gray-900 mb-4">
-              Live Preview
+              {dict.component.text_22}
             </h3>
             <div className="bg-gray-50 p-8 rounded-xl inline-block mb-6">
               {isGenerating ? (
@@ -347,7 +346,7 @@ export default function Component() {
                   />
                   {logoFile && (
                     <div className="absolute top-2 right-2 bg-green-500 text-white text-xs px-2 py-1 rounded">
-                      Logo Added
+                      {dict.component.text_23}
                     </div>
                   )}
                 </div>
@@ -355,9 +354,7 @@ export default function Component() {
                 <div className="w-64 h-64 bg-gray-200 rounded-lg flex items-center justify-center">
                   <div className="text-center">
                     <QrCode className="w-12 h-12 text-gray-400 mx-auto mb-2" />
-                    <p className="text-gray-500">
-                      Enter content to generate QR code
-                    </p>
+                    <p className="text-gray-500">{dict.component.text_24}</p>
                   </div>
                 </div>
               )}
@@ -371,14 +368,17 @@ export default function Component() {
                   className="bg-gradient-to-r from-green-600 to-blue-600 text-white px-6 py-3 rounded-lg font-semibold hover:from-green-700 hover:to-blue-700 transition-all duration-200 shadow-lg hover:shadow-xl flex items-center space-x-2 mx-auto disabled:opacity-50"
                 >
                   <Download className="w-5 h-5" />
-                  <span>Download QR Code</span>
+                  <span>{dict.component.text_25}</span>
                 </button>
                 <div className="text-sm text-gray-500 space-y-1">
-                  <p>High-quality {qrFormat} format</p>
                   <p>
-                    Size: {size}×{size}px • Error Level: {errorLevel}
+                    {dict.component.text_26} {qrFormat} {dict.component.text_27}
                   </p>
-                  {logoFile && <p>✓ Custom logo included</p>}
+                  <p>
+                    {dict.component.text_28}: {size}×{size}px •{" "}
+                    {dict.component.text_29}: {errorLevel}
+                  </p>
+                  {logoFile && <p>✓ {dict.component.text_30}</p>}
                 </div>
               </div>
             )}

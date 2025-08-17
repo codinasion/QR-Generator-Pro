@@ -1,42 +1,37 @@
+import { dictType } from "@/dictionaries";
 import { Upload, Palette, Download, Shield, Zap, Globe } from "lucide-react";
 
-export default function Features() {
+export default function Features({ dict }: { dict: dictType }) {
   const features = [
     {
       icon: <Upload className="w-6 h-6" />,
-      title: "Custom Logo Integration",
-      description:
-        "Upload your brand logo and seamlessly integrate it into your QR codes for enhanced brand recognition.",
+      title: dict.features.text_3,
+      description: dict.features.text_4,
     },
     {
       icon: <Palette className="w-6 h-6" />,
-      title: "Custom Colors & Design",
-      description:
-        "Choose from unlimited color combinations and design options to match your brand identity perfectly.",
+      title: dict.features.text_5,
+      description: dict.features.text_6,
     },
     {
       icon: <Download className="w-6 h-6" />,
-      title: "High-Quality Downloads",
-      description:
-        "Download QR codes in multiple formats (PNG, SVG, PDF) with scalable vector quality.",
+      title: dict.features.text_7,
+      description: dict.features.text_8,
     },
     {
       icon: <Shield className="w-6 h-6" />,
-      title: "Privacy Focused",
-      description:
-        "Your data stays secure. We don't store your QR code content or personal information.",
+      title: dict.features.text_9,
+      description: dict.features.text_10,
     },
     {
       icon: <Zap className="w-6 h-6" />,
-      title: "Lightning Fast",
-      description:
-        "Generate professional QR codes instantly with our optimized rendering engine.",
+      title: dict.features.text_11,
+      description: dict.features.text_12,
     },
     {
       icon: <Globe className="w-6 h-6" />,
-      title: "Global Compatibility",
-      description:
-        "Works with all international characters and supports worldwide QR code standards.",
+      title: dict.features.text_13,
+      description: dict.features.text_14,
     },
   ];
 
@@ -45,11 +40,10 @@ export default function Features() {
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold text-gray-900 mb-4">
-            Powerful Features
+            {dict.features.text_1}
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Everything you need to create professional QR codes for your
-            business, events, and marketing campaigns.
+            {dict.features.text_2}
           </p>
         </div>
 

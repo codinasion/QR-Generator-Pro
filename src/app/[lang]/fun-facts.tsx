@@ -1,19 +1,20 @@
-export default function FunFacts() {
+import { dictType } from "@/dictionaries";
+
+export default function FunFacts({ dict }: { dict: dictType }) {
   const funFacts = [
-    { number: "2.8B", label: "QR Codes Scanned Daily" },
-    { number: "94%", label: "Mobile Users Scan QR Codes" },
-    { number: "150+", label: "Countries Using QR Codes" },
-    { number: "3s", label: "Average Scan Time" },
+    { number: "2.8B", label: dict.fun_facts.text_3 },
+    { number: "94%", label: dict.fun_facts.text_4 },
+    { number: "150+", label: dict.fun_facts.text_5 },
+    { number: "3s", label: dict.fun_facts.text_6 },
   ];
 
   return (
     <section className="py-20 px-4 sm:px-6 lg:px-8 bg-gradient-to-r from-blue-600 to-purple-600 text-white">
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-16">
-          <h2 className="text-4xl font-bold mb-4">QR Code Revolution</h2>
+          <h2 className="text-4xl font-bold mb-4">{dict.fun_facts.text_1}</h2>
           <p className="text-xl opacity-90 max-w-3xl mx-auto">
-            The world has embraced QR codes like never before. Here's why
-            they're essential for modern business.
+            {dict.fun_facts.text_2}
           </p>
         </div>
 

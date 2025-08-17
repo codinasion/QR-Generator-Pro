@@ -2,35 +2,30 @@
 
 import { useState } from "react";
 import { Star } from "lucide-react";
+import { dictType } from "@/dictionaries";
 
-export default function Testimonials() {
+export default function Testimonials({ dict }: { dict: dictType }) {
   const [activeTestimonial, setActiveTestimonial] = useState(0);
 
   const testimonials = [
     {
-      name: "Sarah Chen",
-      role: "Marketing Director",
-      company: "TechFlow Inc.",
-      content:
-        "This QR generator saved us countless hours on our global campaign. The custom logo feature made our codes instantly recognizable!",
+      name: dict.testimonials.text_3,
+      role: dict.testimonials.text_4,
+      content: dict.testimonials.text_5,
       rating: 5,
       avatar: "👩‍💼",
     },
     {
-      name: "Ahmed Hassan",
-      role: "Restaurant Owner",
-      company: "Cairo Delights",
-      content:
-        "Perfect for our contactless menu. Easy to use, professional results every time. Our customers love the clean design!",
+      name: dict.testimonials.text_6,
+      role: dict.testimonials.text_7,
+      content: dict.testimonials.text_8,
       rating: 5,
       avatar: "👨‍🍳",
     },
     {
-      name: "Maria Rodriguez",
-      role: "Event Coordinator",
-      company: "Global Events",
-      content:
-        "Used this for 50+ international events. The bulk generation feature and custom colors match our brand perfectly.",
+      name: dict.testimonials.text_9,
+      role: dict.testimonials.text_10,
+      content: dict.testimonials.text_11,
       rating: 5,
       avatar: "👩‍💻",
     },
@@ -44,11 +39,10 @@ export default function Testimonials() {
       <div className="max-w-7xl mx-auto">
         <div className="text-center mb-16">
           <h2 className="text-4xl font-bold text-gray-900 mb-4">
-            What Our Users Say
+            {dict.testimonials.text_1}
           </h2>
           <p className="text-xl text-gray-600 max-w-3xl mx-auto">
-            Join thousands of satisfied users from around the world who trust QR
-            Generator Pro.
+            {dict.testimonials.text_2}
           </p>
         </div>
 
@@ -75,9 +69,6 @@ export default function Testimonials() {
                 </div>
                 <div className="text-gray-600">
                   {testimonials[activeTestimonial].role}
-                </div>
-                <div className="text-sm text-gray-500">
-                  {testimonials[activeTestimonial].company}
                 </div>
               </div>
             </div>
