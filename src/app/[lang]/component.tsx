@@ -5,7 +5,6 @@ import { Download, QrCode, Upload } from "lucide-react";
 import React, { useState, useEffect } from "react";
 import type { QRCodeToDataURLOptions } from "qrcode";
 
-// Using qrcode npm package for professional QR code generation
 const generateQRCode = async (
   text: string,
   options: QRCodeToDataURLOptions = {},
@@ -13,7 +12,6 @@ const generateQRCode = async (
   if (typeof window === "undefined") return "";
 
   try {
-    // Dynamically import qrcode to avoid SSR issues
     const QRCode = await import("qrcode");
 
     const canvas = document.createElement("canvas");
@@ -55,7 +53,6 @@ export default function Component({ dict }: { dict: dictType }) {
   const [isGenerating, setIsGenerating] = useState(false);
   const [qrFormat, setQrFormat] = useState("PNG");
 
-  // Handle logo upload
   const handleLogoUpload = (file: File | null) => {
     setLogoFile(file);
     if (file) {
@@ -69,7 +66,6 @@ export default function Component({ dict }: { dict: dictType }) {
     }
   };
 
-  // Generate QR code with logo overlay
   const generateQRWithLogo = async () => {
     if (!text.trim()) return;
 
@@ -87,30 +83,25 @@ export default function Component({ dict }: { dict: dictType }) {
       const qrDataUrl = await generateQRCode(text, qrOptions);
 
       if (logoDataUrl && qrDataUrl) {
-        // Create a canvas to overlay logo on QR code
         const canvas = document.createElement("canvas");
         const ctx = canvas.getContext("2d");
         canvas.width = size;
         canvas.height = size;
 
         if (ctx) {
-          // Draw QR code
           const qrImg = new Image();
           qrImg.onload = () => {
             ctx.drawImage(qrImg, 0, 0, size, size);
 
-            // Draw logo in center
             const logoImg = new Image();
             logoImg.onload = () => {
-              const logoSize = size * 0.2; // Logo is 20% of QR code size
+              const logoSize = size * 0.2;
               const logoX = (size - logoSize) / 2;
               const logoY = (size - logoSize) / 2;
 
-              // Add white background for logo
               ctx.fillStyle = "#ffffff";
               ctx.fillRect(logoX - 5, logoY - 5, logoSize + 10, logoSize + 10);
 
-              // Draw logo
               ctx.drawImage(logoImg, logoX, logoY, logoSize, logoSize);
 
               setQrCode(canvas.toDataURL());
@@ -145,8 +136,6 @@ export default function Component({ dict }: { dict: dictType }) {
       const filename = `qr-code-${Date.now()}.${qrFormat.toLowerCase()}`;
 
       if (qrFormat === "SVG") {
-        // For SVG, we'd need to regenerate as SVG
-        // For now, default to PNG
         link.download = filename.replace(".svg", ".png");
       } else {
         link.download = filename;
