@@ -1,0 +1,142 @@
+{
+  "seo": {
+    "title": "QR kode sortzailea logotipoarekin eta diseinu pertsonalizatuarekin | QR kode profesionalak linean",
+    "description": "Sortu QR kode profesionalak logotipo, kolore eta diseinu pertsonalizatuekin. Lineako QR kode sortzailea negozio txarteletarako, menuetarako, ekitaldietarako eta marketin kanpainetarako. Deskargatu kalitate handiko PNG, SVG formatuak berehala.",
+    "keywords": "QR kode sortzailea, QR kode pertsonalizatuak, logotipoa duen QR kodea, QR sortzailea, negozio QR kodeak, marketin-kodeak QR, kontakturik gabeko menua QR, gertaera QR kodeak, QR diseinu profesionala",
+    "codinasion": "Codinasion",
+    "og_title": "QR kode-sortzaile profesionala Logo eta Diseinu pertsonalizatuarekin",
+    "og_description": "Sortu QR kode harrigarriak zure logotipoarekin eta kolore pertsonalizatuekin. Negozio, jatetxe, ekitaldi eta marketin kanpainarako ezin hobea. Doako eta berehalako deskargak."
+  },
+  "navbar": {
+    "text_1": "QR sortzailea Pro",
+    "text_2": "Ezaugarriak",
+    "text_3": "Erabili maiuskulak",
+    "text_4": "Kritikak",
+    "text_5": "Hasi libre"
+  },
+  "hero": {
+    "text_1": "Sortu QR kode profesionalak segundotan",
+    "text_2": "Sortu QR kode harrigarriak logotipo, kolore eta diseinu pertsonalizatuekin. Ezin hobea negozioetarako, ekitaldietarako, marketineko kanpainetarako eta kontakturik gabeko esperientzietarako.",
+    "text_3": "Hasi libre sortzen",
+    "text_4": "% 100 libre",
+    "text_5": "Erregistrorik ez",
+    "text_6": "Berehalako deskarga"
+  },
+  "component": {
+    "text_1": "Sortu zure QR kodea",
+    "text_2": "Edukia (URLa, testua, posta elektronikoa, telefonoa, WiFia, etab.)",
+    "text_3": "Sartu URLa, testua, posta elektronikoa, telefono zenbakia edo edukiren bat.",
+    "text_4": "Adibidea",
+    "text_5": "Errorearen zuzenketa maila",
+    "text_6": "Behe (% 7)",
+    "text_7": "Tartekoa (%15)",
+    "text_8": "Kuartilak (%25)",
+    "text_9": "Altua (%30)",
+    "text_10": "Deskargatu formatua",
+    "text_11": "PNG (gomendatua)",
+    "text_12": "JPG",
+    "text_13": "SVG (Vector)",
+    "text_14": "Aurreko planoaren kolorea",
+    "text_15": "Atzeko planoaren kolorea",
+    "text_16": "Tamaina",
+    "text_17": "Igo logotipoa (aukerakoa)",
+    "text_18": "Arrastatu eta jaregin logotipoa edo egin klik arakatzeko",
+    "text_19": "Gomendatua: Irudi karratuak, PNG/JPG, gehienez 2MB",
+    "text_20": "Aukeratu fitxategia",
+    "text_21": "Kendu logotipoa",
+    "text_22": "Aurrebista",
+    "text_23": "Logoa gehituta",
+    "text_24": "Sartu edukia QR kodea sortzeko",
+    "text_25": "Deskargatu QR kodea",
+    "text_26": "Kalitate handikoa",
+    "text_27": "formatua",
+    "text_28": "Tamaina",
+    "text_29": "Errorearen maila",
+    "text_30": "Logotipo pertsonalizatua barne"
+  },
+  "bmc": {
+    "text_1": "QR Generator Proz gozatzen?",
+    "text_2": "Tresna honek denbora aurreztu badizu eta zure negozioari lagundu badio, kafe bat erostea pentsatu! Zure laguntza lagungarria da tresna hau libre eta etengabe hobetzeko.",
+    "text_3": "Kafea erosi"
+  },
+  "features": {
+    "text_1": "Ezaugarri indartsuak",
+    "text_2": "QR kode profesionalak sortzeko behar duzun guztia zure negozio, ekitaldi eta marketin kanpainetarako.",
+    "text_3": "Logotipo pertsonalizatua",
+    "text_4": "Igo zure markaren logotipoa eta sartu zure QR kodeetan marka-ezagutze hobea lortzeko.",
+    "text_5": "Kolore pertsonalizatuak eta diseinua",
+    "text_6": "Aukeratu kolore-konbinazio mugagabeak eta diseinu-aukerak zure markaren identitatearekin bat etortzeko.",
+    "text_7": "Kalitate handiko deskargak",
+    "text_8": "Deskargatu QR kodeak hainbat formatutan (PNG, SVG, PDF) bektorearen kalitate eskalagarriarekin.",
+    "text_9": "Pribatutasuna fokuan",
+    "text_10": "Zure datuak seguru daude. Ez dugu zure QR kodearen edukia edo informazio pertsonala gordetzen.",
+    "text_11": "Tximista azkarra",
+    "text_12": "Sortu QR kode profesionalak berehala gure errendatze motor optimizatuarekin.",
+    "text_13": "Bateragarritasuna",
+    "text_14": "Nazioarteko karaktere guztiekin funtzionatzen du eta mundu osoko QR kode-arauak onartzen ditu."
+  },
+  "use_cases": {
+    "text_1": "Industria guztietarako ezin hobea",
+    "text_2": "Jatetxeetatik ekitaldietara, gure QR kodeak zure beharretara eta industriaren beharretara egokitzen dira.",
+    "text_3": "Jatetxearen menuak",
+    "text_4": "Kontakturik gabeko jangela-esperientziak",
+    "text_5": "Sarrerak",
+    "text_6": "Kontrol prozesu motelak",
+    "text_7": "Negozio-txartelak",
+    "text_8": "Sareko soluzio digitalak",
+    "text_9": "Deskargak",
+    "text_10": "Zuzeneko aplikazioak gordetzeko estekak",
+    "text_11": "Ordainketa-esteka",
+    "text_12": "Ordainketa azkarraren prozesamendua",
+    "text_13": "Kokalekua partekatzea",
+    "text_14": "GPS koordenatuak eta mapak"
+  },
+  "fun_facts": {
+    "text_1": "QR kodeen iraultza",
+    "text_2": "Munduak inoiz ez bezalako QR kodeak besarkatu ditu. Horregatik dira funtsezkoak negozio modernoetarako.",
+    "text_3": "QR kodeak egunero eskaneatuta",
+    "text_4": "Erabiltzaile mugikorrek QR kodeak eskaneatzen dituzte",
+    "text_5": "QR kodeak erabiltzen dituzten herrialdeak",
+    "text_6": "Batez besteko denbora"
+  },
+  "historical_context": {
+    "text_1": "QR kodearen bidaia",
+    "text_2": "Japonian jaioa",
+    "text_3": "QR kodeak Denso Wavek asmatu zituen Toyota fabriketan automobilgintzako piezak bilatzeko.",
+    "text_4": "Pandemiaren booma",
+    "text_5": "COVID-19 bizkortu egin da QR kodeen adopzioa kontakturik gabeko elkarreraginetarako mundu osoan.",
+    "text_6": "Gaur",
+    "text_7": "Estandar globala",
+    "text_8": "QR kodeak ezinbestekoak dira negozioetarako, marketinerako eta esperientzia digitaletarako."
+  },
+  "testimonials": {
+    "text_1": "Gure erabiltzaileek esaten dutena",
+    "text_2": "Sartu mundu osoko milaka erabiltzaile pozik QR Generator Pro-rekin fidatzen direnak.",
+    "text_3": "Sarah Chen",
+    "text_4": "Marketin zuzendaria",
+    "text_5": "QR sorgailu honek ordu asko aurreztu zizkigun gure kanpaina globalean. Logotipoaren ezaugarri pertsonalizatuak berehala ezagutu zituen gure kodeak!",
+    "text_6": "Ahmed Hassan",
+    "text_7": "Jatetxeko jabea",
+    "text_8": "Ezin hobea gure kontakturik gabeko menurako. Erabiltzeko erraza, emaitza profesionalak beti. Gure bezeroek diseinu garbia maite dute!",
+    "text_9": "Maria Rodriguez",
+    "text_10": "Gertaera koordinatzailea",
+    "text_11": "Nazioarteko 50 ekitalditarako erabili da. Sorkuntza handiaren ezaugarriak eta kolore pertsonalizatuak bat datoz gure markarekin."
+  },
+  "cta": {
+    "text_1": "QR kode harrigarriak sortzeko prest?",
+    "text_2": "Sartu mundu osoko milioika erabiltzailerekin QR kode profesionalak sortzen dituztenak gure sorgailuarekin.",
+    "text_3": "Hasi orain sortzen... Libre da!"
+  },
+  "sponsor": {
+    "text_1": "Bihurtu gure babesle esklusiboa",
+    "text_2": "Onartu QR Generator Pro eta lortu zure marka betirako gure plataforman. Tresna-enpresentzat, software-enpresentzat edo gure publiko orokorrarengana iritsi nahi duenarentzat.",
+    "text_3": "Behin ordainketa",
+    "text_4": "Bizitzako babesa",
+    "text_5": "Zure logotipoa nabarmen bistaratuta",
+    "text_6": "Estekatu zure webgunera",
+    "text_7": "Babesle esklusiboa (babesle bakarra)",
+    "text_8": "Milaka erabiltzailerengana iristen",
+    "text_9": "Babestu zure babeslea",
+    "text_10": "Lehenik etorri, lehenik zerbitzatu. Babesleentzako toki bakarra dago."
+  }
+}

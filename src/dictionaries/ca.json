@@ -1,0 +1,142 @@
+{
+  "seo": {
+    "title": "Generador de codi Free QR amb Logotip & A mida Disseny de Professional QR en línia",
+    "description": "Creeu codis QR professionals amb logos personalitzats, colors i dissenys personalitzats. Generador de codi lliure en línia per a targetes de negoci, menús, esdeveniments i campanyes de màrqueting. Descarrega un PNG d'alta qualitat, formats SVG instantàniament.",
+    "keywords": "Generador de codi QR, codi personalitzat QR, codi QR amb logo, generador lliure de QR, codis de negoci QR, codis de màrqueting QR, menú sense contacte QR, codis d' esdeveniments QR, disseny professional QR",
+    "codinasion": "CodinsióName",
+    "og_title": "Generador de codi Professional QR amb Logotip personalitzat i Disseny",
+    "og_description": "Genera codis QR impressionants amb el vostre logo de marca i colors personalitzats. Perfecte per negocis, restaurants, esdeveniments i campanyes de màrqueting. Descarregades lliures i instantànies."
+  },
+  "navbar": {
+    "text_1": "Generador QR Pro",
+    "text_2": "Característiques",
+    "text_3": "Casos d' ús",
+    "text_4": "Revisió",
+    "text_5": "Començar lliurement"
+  },
+  "hero": {
+    "text_1": "Crea codi de QR Professional en segons",
+    "text_2": "Genera codis QR impressionants amb logos personalitzats, colors i dissenys. Perfecte per negocis, esdeveniments, campanyes de màrqueting i experiències sense contacte arreu del món.",
+    "text_3": "Comença a crear lliures",
+    "text_4": "100% lliure",
+    "text_5": "Sense registre",
+    "text_6": "Baixada instantània"
+  },
+  "component": {
+    "text_1": "Genera el codi QR",
+    "text_2": "Contingut (URL, text, correu electrònic, telèfon, WiFi, etc.)",
+    "text_3": "Introduïu URL, text, correu electrònic, número de telèfon, o qualsevol contingut",
+    "text_4": "Exemple",
+    "text_5": "Nivell de correcció d' errors",
+    "text_6": "Baix (7%)",
+    "text_7": "Mitjà (15%)",
+    "text_8": "Quartil (25%)",
+    "text_9": "Alta (30%)",
+    "text_10": "Format de baixada",
+    "text_11": "PNG (recomanat)",
+    "text_12": "JPG",
+    "text_13": "SVG (Vector)",
+    "text_14": "Color de primer pla",
+    "text_15": "Color de fons",
+    "text_16": "Mida",
+    "text_17": "Publica el logotip (Opcional)",
+    "text_18": "Arrossegueu i deixeu anar el vostre logotip o cliqueu per navegar",
+    "text_19": "Recomanada: Imatges quadrades, PNG/JPG, max 2MB",
+    "text_20": "Escolliu un fitxer",
+    "text_21": "Elimina el logotip",
+    "text_22": "Vista prèvia en directe",
+    "text_23": "S' ha afegit el Logo",
+    "text_24": "Introduïu el contingut per generar codi QR",
+    "text_25": "Descarrega codi QR",
+    "text_26": "Alta qualitat",
+    "text_27": "format",
+    "text_28": "Mida",
+    "text_29": "Nivell d' error",
+    "text_30": "logo personalitzat inclòs"
+  },
+  "bmc": {
+    "text_1": "Gaudint del generador QR Pro?",
+    "text_2": "Si aquesta eina t'ha salvat temps i ha ajudat el teu negoci, considera'm un cafè! El vostre suport ajuda a mantenir aquesta eina lliure i contínuament millorada.",
+    "text_3": "Compra'm un cafè"
+  },
+  "features": {
+    "text_1": "Característiques elèctriques",
+    "text_2": "Tot el que cal per crear codis professionals de QR per al vostre negoci, esdeveniments i campanyes de màrqueting.",
+    "text_3": "Integració personalitzada del logotip",
+    "text_4": "Pugeu el vostre logotip de marca i tot integrant-lo en els codis de QR per al reconeixement millorat de marques.",
+    "text_5": "& Disseny de colors a mida",
+    "text_6": "Escolliu des de combinacions de color sense límit i les opcions de disseny per a coincidir amb la vostra identitat de marca perfectament.",
+    "text_7": "Baixades d' alta qualitat",
+    "text_8": "Descarrega codis QR en múltiples formats (PNG, SVG, PDF) amb qualitat vectorial escalable.",
+    "text_9": "Privadesa el focus",
+    "text_10": "Les vostres dades es mantenen segures. No guardarem el seu contingut de QR o informació personal.",
+    "text_11": "Llamp ràpid",
+    "text_12": "Genera codis professionals QR instantàniament amb el motor de representació optimitzada.",
+    "text_13": "Compatibilitat global",
+    "text_14": "Funciona amb tots els caràcters internacionals i permeten estàndards de codi QR arreu del món."
+  },
+  "use_cases": {
+    "text_1": "Perfecte per a cada Indèria",
+    "text_2": "Dels restaurants als esdeveniments, els nostres codis QR s'adaptan a les vostres necessitats i requisits específics de la indústria.",
+    "text_3": "Menús Restaurants",
+    "text_4": "Autoparacions sense contacte",
+    "text_5": "bitllet d' esdeveniment",
+    "text_6": "Comprovació de processos sense mar",
+    "text_7": "Targetes comercials",
+    "text_8": "Solucions digitals de xarxa",
+    "text_9": "Baixades de l' aplicació",
+    "text_10": "L' aplicació directa desa enllaços",
+    "text_11": "Enllaços monetaris",
+    "text_12": "Processament ràpid del pagament",
+    "text_13": "Compartició de localització",
+    "text_14": "Coordenades GPS i mapes"
+  },
+  "fun_facts": {
+    "text_1": "Revolution del codi QR",
+    "text_2": "El món ha abraçat codis QR com mai abans. Per això són essencials pel negoci modern.",
+    "text_3": "Codis QR explorat Daily",
+    "text_4": "Usuaris mòbils marquin codi QR",
+    "text_5": "Països Usar codi QR",
+    "text_6": "Temps d' exploració mitjana"
+  },
+  "historical_context": {
+    "text_1": "El codi QR Journey",
+    "text_2": "naixement al Japó",
+    "text_3": "Els codis QR van ser inventats per Denso Wave per seguir parts automotives a les fàbriques de Toyota.",
+    "text_4": "Pandemic Boom",
+    "text_5": "COVID- 19 accelerat adopció de codi QR per a interaccions sense contacte arreu del món.",
+    "text_6": "Avui",
+    "text_7": "Estàndard global",
+    "text_8": "Els codis QR són essencials per als negocis, màrqueting i experiències digitals globalment."
+  },
+  "testimonials": {
+    "text_1": "El que els nostres usuaris diuen",
+    "text_2": "Uneix-te a milers d'usuaris satisfets per tot el món que creuen en el generador QR Pro.",
+    "text_3": "Sarah Chen",
+    "text_4": "Director de mercat",
+    "text_5": "Aquest generador de QR ens va salvar incomptables hores a la nostra campanya global. La característica personalitzada del logo va fer els nostres codis instantàniament reconeguts!",
+    "text_6": "Ahmed Hassan",
+    "text_7": "Propietari del transport",
+    "text_8": "Perfecte per al nostre menú sense contacte. Fàcil d'utilitzar, resultats professionals cada vegada. Als nostres clients els encanta el disseny net!",
+    "text_9": "Maria Rodriguez",
+    "text_10": "Animador d' esdeveniments",
+    "text_11": "Usada això per 50 esdeveniments internacionals. La característica de generació en gran volum i els colors personalitzats coincideixen amb la nostra marca perfectament."
+  },
+  "cta": {
+    "text_1": "Preparat per crear codis increïbles QR?",
+    "text_2": "Uneix-te a milions d'usuaris arreu del món que creen codis de QR professionals amb el nostre generador lliure.",
+    "text_3": "Comença a crear ara - És lliure!"
+  },
+  "sponsor": {
+    "text_1": "Ens convertim en l'Esclusiva Sponsor",
+    "text_2": "Donar suport al generador QR Pro i posar permanentment la teva marca a la nostra plataforma. Perfecte per a empreses d'eines, empreses de software o persones que vulguin arribar al públic global.",
+    "text_3": "Pagament d' una hora",
+    "text_4": "Patrotiment de la vida",
+    "text_5": "El vostre logotip es mostra prominentment",
+    "text_6": "Enllaç al teu lloc web",
+    "text_7": "Exclusiva patrocini (només 1 patrocinador)",
+    "text_8": "S'ha arribat a milers d'usuaris diaris",
+    "text_9": "Assegureu-vos de la vostra espoonsura",
+    "text_10": "Primer vénen, primer servit. Només un lloc de patrocinador disponible."
+  }
+}

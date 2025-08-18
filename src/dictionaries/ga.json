@@ -1,0 +1,142 @@
+{
+  "seo": {
+    "title": "Gineadóir Cód QR saor in aisce le Lógó &amp; Dearadh Saincheaptha Cóid QR Gairmiúla ar líne",
+    "description": "Cruthaigh cóid QR gairmiúla le lógónna saincheaptha, dathanna, agus dearaí. Gineadóir cód QR líne saor in aisce do chártaí gnó, biachláir, imeachtaí, agus feachtais margaíochta. Íoslódáil PNG ardchaighdeáin, formáidí SVG láithreach.",
+    "keywords": "QR gineadóir cód, cóid QR saincheaptha, cód QR le lógó, gineadóir QR saor in aisce, cóid QR gnó, cóid QR margaíochta, roghchlár gan teagmháil QR, QR ócáid cóid, dearadh QR gairmiúla",
+    "codinasion": "Codlata",
+    "og_title": "Gairmiúla QR Cód Gineadóir le Lógó saincheaptha agus Dearadh",
+    "og_description": "Generate cóid QR néal le do lógó branda agus dathanna saincheaptha. Foirfe do ghnólachtaí, bialanna, imeachtaí, agus feachtais margaíochta. Íoslódáilí saor in aisce agus toirt."
+  },
+  "navbar": {
+    "text_1": "QR Gineadóir Pro",
+    "text_2": "Gnéithe",
+    "text_3": "Úsáid Cásanna",
+    "text_4": "Léirmheasanna",
+    "text_5": "Faigh Started Saor"
+  },
+  "hero": {
+    "text_1": "Cruthaigh Cóid QR Gairmiúla i Soicind",
+    "text_2": "Generate cóid QR néal le lógónna saincheaptha, dathanna, agus dearaí. Foirfe do ghnólachtaí, imeachtaí, feachtais margaíochta, agus taithí gan teagmháil ar fud an domhain.",
+    "text_3": "Tosaigh Cruthú saor in aisce",
+    "text_4": "100% Saor in Aisce",
+    "text_5": "Clár na dToghthóirí",
+    "text_6": "Íoslódálacha Meandaracha"
+  },
+  "component": {
+    "text_1": "Gin Do Cód QR",
+    "text_2": "Ábhar (URL, Téacs, Ríomhphost, Fón, wifi, etc.)",
+    "text_3": "Cuir isteach URL, téacs, ríomhphost, uimhir theileafóin, nó aon ábhar",
+    "text_4": "Samplaí",
+    "text_5": "Leibhéal Ceart Earráid",
+    "text_6": "Íseal (7%)",
+    "text_7": "Meánach (15%)",
+    "text_8": "Ã ireannach (25%)",
+    "text_9": "Ard (30%)",
+    "text_10": "Naisc go dtí suíomhanna eile",
+    "text_11": "PNG (Molta)",
+    "text_12": "JPG",
+    "text_13": "SVG (Vector)",
+    "text_14": "Dath Foraoise",
+    "text_15": "Dath Cúlra",
+    "text_16": "Méid an Méid",
+    "text_17": "Lógó Upload (Roghnach)",
+    "text_18": "Tarraing &amp; scaoil do lógó nó cliceáil chun brabhsáil",
+    "text_19": "Molta: Íomhánna Cearnóg, PNG / JPG, max 2MB",
+    "text_20": "Roghnaigh an comhad",
+    "text_21": "Bain úsáid as",
+    "text_22": "Réamhamharc Beo",
+    "text_23": "Lógó Added",
+    "text_24": "Cuir isteach ábhar a ghiniúint cód QR",
+    "text_25": "Íoslódáil Cód QR",
+    "text_26": "Ard-chaighdeán",
+    "text_27": "formáid formáid",
+    "text_28": "Méid an Méid",
+    "text_29": "Leibhéal an Earráid",
+    "text_30": "lógó saincheaptha san áireamh"
+  },
+  "bmc": {
+    "text_1": "Bain sult as QR Gineadóir Pro?",
+    "text_2": "Má tá an uirlis shábháil tú am agus chabhraigh do ghnó, a mheas ag ceannach dom caife! Cuidíonn do thacaíocht a choinneáil ar an uirlis saor in aisce agus a fheabhsú go leanúnach.",
+    "text_3": "Ceannaigh Me caife"
+  },
+  "features": {
+    "text_1": "Gnéithe cumhachtacha",
+    "text_2": "Gach rud is gá duit a chruthú cóid QR gairmiúla do do ghnó, imeachtaí, agus feachtais margaíochta.",
+    "text_3": "Comhtháthú Lógó saincheaptha",
+    "text_4": "Upload do lógó branda agus gan uaim é a chomhtháthú isteach i do cóid QR le haghaidh aitheantas branda feabhsaithe.",
+    "text_5": "Dathanna saincheaptha &amp; Dearadh",
+    "text_6": "Roghnaigh ó chomhcheangail dath neamhtheoranta agus roghanna dearaidh a mheaitseáil do chéannacht branda breá.",
+    "text_7": "Íoslódáilí Ardcháilíochta",
+    "text_8": "Íoslódáil cóid QR i bhformáidí éagsúla (PNG, SVG, PDF) le caighdeán veicteoir inscálaithe.",
+    "text_9": "Polasaí Príobháideachta",
+    "text_10": "Fanann do shonraí slán. Ní chuirimid stóráil do QR ábhar cód nó faisnéis phearsanta.",
+    "text_11": "Lightning Fast",
+    "text_12": "Generate cóid QR gairmiúla láithreach lenár n-inneall rindreáil optamaithe.",
+    "text_13": "Comhoiriúnacht Domhanda",
+    "text_14": "Oibríonn sé le gach carachtair idirnáisiúnta agus tacaíonn sé le caighdeáin cód QR ar fud an domhain."
+  },
+  "use_cases": {
+    "text_1": "Foirfe do gach Tionscal",
+    "text_2": "Ó bhialanna chun imeachtaí, ár gcóid QR in oiriúint do riachtanais shonracha agus riachtanais tionscail.",
+    "text_3": "Roghchlár Bialann",
+    "text_4": "eispéiris bia gan teagmháil",
+    "text_5": "Naisc ábhartha eile",
+    "text_6": "Próisis gan uaim seiceáil isteach",
+    "text_7": "Cártaí Gnó",
+    "text_8": "réitigh líonraithe digiteach",
+    "text_9": "Naisc ábhartha eile",
+    "text_10": "Naisc siopa app Direct",
+    "text_11": "Íocaíocht Ar Líne a Dhéanamh",
+    "text_12": "Próiseáil íocaíochta tapa",
+    "text_13": "Suíomh Roinnt",
+    "text_14": "Comhordanáidí GPS agus léarscáileanna"
+  },
+  "fun_facts": {
+    "text_1": "Réabhlóid Cód QR",
+    "text_2": "Tá an domhan glactha cóid QR mhaith riamh roimhe. Seo an fáth go bhfuil siad riachtanach do ghnó nua-aimseartha.",
+    "text_3": "Cóid QR Scanned Laethúil",
+    "text_4": "Úsáideoirí Soghluaiste Cóid QR Scan",
+    "text_5": "Tíortha ag baint úsáide as Cóid QR",
+    "text_6": "Meán-Am Scan"
+  },
+  "historical_context": {
+    "text_1": "Turas Cód QR",
+    "text_2": "Birth sa tSeapáin",
+    "text_3": "Bhí invented cóid QR ag Denso Wave chun rianú páirteanna feithicleach i monarchana Toyota.",
+    "text_4": "Pandemic Boom",
+    "text_5": "COVID-19 luathaithe QR cód a ghlacadh le haghaidh idirghníomhaíochtaí gan teagmháil ar fud an domhain.",
+    "text_6": "Sa lá atá inniu ann",
+    "text_7": "Caighdeán Domhanda",
+    "text_8": "Tá cóid QR riachtanach anois le haghaidh taithí gnó, margaíochta, agus digiteach ar fud an domhain."
+  },
+  "testimonials": {
+    "text_1": "Cad é ár Úsáideoirí Abair",
+    "text_2": "Member na mílte úsáideoirí sásta ó ar fud an domhain a muinín QR Gineadóir Pro.",
+    "text_3": "riachtanais uisce: measartha",
+    "text_4": "Stiúrthóir Margaíochta",
+    "text_5": "Shábháil an gineadóir QR dúinn uaireanta countless ar ár bhfeachtas domhanda. An gné lógó saincheaptha a rinneadh ár cóid aitheanta láithreach!",
+    "text_6": "Ahmed Hassan",
+    "text_7": "Eolas faoin gComhlacht",
+    "text_8": "Foirfe le haghaidh ár roghchlár gan teagmháil. Éasca le húsáid, torthaí gairmiúla gach uair. Is breá ár gcustaiméirí an dearadh glan!",
+    "text_9": "riachtanais uisce: measartha",
+    "text_10": "Comhordaitheoir Imeacht",
+    "text_11": "Úsáidte seo le haghaidh 50+ imeachtaí idirnáisiúnta. An ghné ghlúin is mó agus dathanna saincheaptha mheaitseáil ár branda breá."
+  },
+  "cta": {
+    "text_1": "Réidh le Cruthaigh Cóid QR iontach?",
+    "text_2": "Member na milliúin na n-úsáideoirí ar fud an domhain a chruthú cóid QR gairmiúla lenár gineadóir saor in aisce.",
+    "text_3": "Tosaigh Ag cruthú Anois - Tá sé saor in aisce!"
+  },
+  "sponsor": {
+    "text_1": "Bí Ár Urraitheoir eisiach",
+    "text_2": "Tacaíocht QR Gineadóir Pro agus a fháil do bhranda le feiceáil go buan ar ár ardán. Foirfe do chuideachtaí uirlis, gnólachtaí bogearraí, nó aon duine ar mian leo a bhaint amach ár lucht féachana domhanda.",
+    "text_3": "Íocaíocht aonuaire",
+    "text_4": "Cúrsaí spóirt",
+    "text_5": "Do lógó taispeáint go feiceálach",
+    "text_6": "Nasc chuig do láithreán gréasáin",
+    "text_7": "urraíocht eisiach (ach 1 urraitheoir)",
+    "text_8": "Na mílte úsáideoirí laethúla",
+    "text_9": "Slán Do Urraíocht",
+    "text_10": "An chéad teacht, a sheirbheáil ar dtús. Níl ach sliotán urraitheoir amháin ar fáil."
+  }
+}

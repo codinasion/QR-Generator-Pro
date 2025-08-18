@@ -1,0 +1,142 @@
+{
+  "seo": {
+    "title": "Logo ve Özel Tasarım ile ücretsiz QR Code Jeneratör | Profesyonel QR kodları Online",
+    "description": "Özel logolar, renkler ve tasarımları ile profesyonel QR kodları oluşturun. Ücretsiz online QR kodu iş kartları, menüler, olaylar ve pazarlama kampanyaları için jeneratörü. Yüksek kaliteli PNG, SVG formatlarını anında indirin.",
+    "keywords": "QR kodu jeneratörü, özel QR kodları, logo ile QR kodu, ücretsiz QR jeneratörü, iş QR kodları, pazarlama QR kodları, iletişimsiz menü QR kodları, olay QR kodları, profesyonel QR tasarım",
+    "codinasion": "Codinasion",
+    "og_title": "Profesyonel QR Code Jeneratör with Custom Logo & Design",
+    "og_description": "Marka logonuz ve özel renkler ile çarpıcı QR kodları. İşletmeler, restoranlar, olaylar ve pazarlama kampanyaları için mükemmel. Ücretsiz ve anlık indirmeler."
+  },
+  "navbar": {
+    "text_1": "QR Jeneratör Pro Pro Pro",
+    "text_2": "Özellikler Özellikler Özellikler Özellikler",
+    "text_3": "Vakaları kullanın",
+    "text_4": "Yorumlar",
+    "text_5": "Başlayın Free Free Get"
+  },
+  "hero": {
+    "text_1": "İkincilerde Profesyonel QR kodları oluşturun",
+    "text_2": "Özel logolar, renkler ve tasarımları ile çarpıcı QR kodları. İşletmeler için mükemmel, etkinlikler, pazarlama kampanyaları ve dünya çapında iletişimsiz deneyimler.",
+    "text_3": "Free Free Free oluşturmaya başlayın",
+    "text_4": "% 100 Ücretsiz",
+    "text_5": "Kayıt yok",
+    "text_6": "Anında Download"
+  },
+  "component": {
+    "text_1": "QR Kodu",
+    "text_2": "Content (URL, Text, Email, Phone, WiFi, vs.)",
+    "text_3": "URL'ye girin, metin, e-posta, telefon numarası veya herhangi bir içerik",
+    "text_4": "Örnek Örnek Örnek Örnek Örnek Örnek Örnek",
+    "text_5": "Hata düzeltme seviyesi",
+    "text_6": "Düşük (% 7)",
+    "text_7": "Medium (15%)",
+    "text_8": "Quartile (% 25)",
+    "text_9": "Yüksek (% 30)",
+    "text_10": "Download Format",
+    "text_11": "PNG (Ted)",
+    "text_12": "JPG",
+    "text_13": "SVG (Vector)",
+    "text_14": "Foreground Color",
+    "text_15": "Arka renkli renk",
+    "text_16": "Boyut Boyutu",
+    "text_17": "Etiket Logo (Okul)",
+    "text_18": "Drag & drop your logo or click to Eye",
+    "text_19": "Önerilen: Square görüntüleri, PNG/JPG, max 2MB",
+    "text_20": "Dosyayı seçin",
+    "text_21": "Logoyu Kaldırın",
+    "text_22": "Canlı Preview",
+    "text_23": "Logo eklendi",
+    "text_24": "QR kodu oluşturmak için içerik girin",
+    "text_25": "Download QR Code",
+    "text_26": "Yüksek kaliteli",
+    "text_27": "format",
+    "text_28": "Boyut Boyutu",
+    "text_29": "Hata Düzeyi",
+    "text_30": "Özel logo dahil"
+  },
+  "bmc": {
+    "text_1": "QR Jeneratör Pro'nun keyfini çıkarın?",
+    "text_2": "Bu araç sizi zamanında kurtarmış ve işinize yardım etmişse, beni kahve satın almayı düşünün! Desteğiniz bu aracı ücretsiz ve sürekli olarak geliştirmenize yardımcı olur.",
+    "text_3": "Beni bir Kahve satın al"
+  },
+  "features": {
+    "text_1": "Güçlü Özellikler Güçlü Özellikler",
+    "text_2": "İşiniz için profesyonel QR kodları oluşturmak için ihtiyacınız olan her şey, olaylar ve pazarlama kampanyaları.",
+    "text_3": "Özel Logo entegrasyonu",
+    "text_4": "Marka logonuzu yükleyin ve onu gelişmiş marka tanıma için QR kodlarınıza entegre edin.",
+    "text_5": "Özel Renkler & Tasarım",
+    "text_6": "Marka kimliğinizi mükemmel bir şekilde eşleştirmek için sınırsız renk kombinasyonlarından seçin.",
+    "text_7": "Yüksek kaliteli Downloads",
+    "text_8": "Birden çok formatta QR kodları indirin (PNG, SVG, PDF) ölçeklenebilir vektör kalitesi ile.",
+    "text_9": "Gizlilik Odaklı",
+    "text_10": "Verileriniz güvende kalır. QR kod içeriklerinizi veya kişisel bilgilerinizi saklamayız.",
+    "text_11": "Yıldırım Hızlı",
+    "text_12": "Genrate profesyonel QR kodları, optimize edilmiş form motorumuzla anında.",
+    "text_13": "Global Uyumluluk",
+    "text_14": "Tüm uluslararası karakterlerle çalışır ve dünya çapında QR kodu standartlarını destekler."
+  },
+  "use_cases": {
+    "text_1": "Her Endüstri için Mükemmel",
+    "text_2": "Restoranlardan olaylara kadar, QR kodlarımız özel ihtiyaçlarınıza ve endüstri gereksinimlerinize uyum sağlar.",
+    "text_3": "Restoran Menus",
+    "text_4": "İletişimsiz yemek deneyimleri",
+    "text_5": "Event Bilet Biletleri",
+    "text_6": "sorunsuz check-in süreçleri",
+    "text_7": "İş Kartları",
+    "text_8": "Dijital ağ çözümleri çözümleri",
+    "text_9": "App Downloads",
+    "text_10": "Doğrudan uygulama mağazası bağlantıları",
+    "text_11": "Ödeme Linkleri",
+    "text_12": "Hızlı ödeme işleme işlemi",
+    "text_13": "Konum Paylaşım",
+    "text_14": "GPS koordinatları ve haritalar"
+  },
+  "fun_facts": {
+    "text_1": "QR Code Revolution",
+    "text_2": "Dünya daha önce hiç olmadığı gibi QR kodları benimsemiştir. İşte modern iş için neden önemli olduklarını.",
+    "text_3": "QR Kodlarını Taramalı Günlük",
+    "text_4": "Mobile Users Scan QR Kod",
+    "text_5": "QR Kodlarını Kullanan Ülkeler",
+    "text_6": "Ortalama Scan Time"
+  },
+  "historical_context": {
+    "text_1": "QR Kodu Yolculuğu",
+    "text_2": "Japonya'da doğum",
+    "text_3": "QR kodları, Toyota fabrikalarında otomotiv parçaları izlemek için Denso Wave tarafından icat edildi.",
+    "text_4": "Pandemic Boom",
+    "text_5": "Helsing-19 hızlandı QR kodu dünya çapında temassız etkileşimler için kabul edilir.",
+    "text_6": "Bugün Bugün Bugün Bugün Bugün Bugün Bugün Bugün",
+    "text_7": "Global Standard",
+    "text_8": "QR kodları artık iş, pazarlama ve dijital deneyimler için önemlidir."
+  },
+  "testimonials": {
+    "text_1": "Kullanıcılarımız Ne Diyor",
+    "text_2": "QR Jeneratör Pro'ya güvenen dünyadan binlerce memnun kullanıcıya katılın.",
+    "text_3": "Sarah Chen",
+    "text_4": "Pazarlama Direktörü",
+    "text_5": "Bu QR jeneratörü bizi küresel kampanyamızda sayısız saat kurtardı. Özel logo özelliği kodlarımız anında tanınabilir!",
+    "text_6": "Ahmed Hasan",
+    "text_7": "Restoran Sahibi Restoran",
+    "text_8": "İletişimsiz menülerimiz için mükemmel. Kullanımı kolay, profesyonel sonuçlar her seferinde. Müşterilerimiz temiz tasarımı seviyor!",
+    "text_9": "Maria Rodriguez",
+    "text_10": "Event Koordinatörü",
+    "text_11": "Bunu 50+ uluslararası olay için kullandı. Büyük nesil özelliği ve özel renkler markamızı mükemmel bir şekilde eşleştirir."
+  },
+  "cta": {
+    "text_1": "İnanılmaz QR kodları oluşturmaya hazır mısın?",
+    "text_2": "Ücretsiz jeneratörümüzle profesyonel QR kodları oluşturan milyonlarca kullanıcıya katılın.",
+    "text_3": "Şimdi Oluşturmaya başlayın - Ücretsiz!"
+  },
+  "sponsor": {
+    "text_1": "Become Our Exclusive Sponsor",
+    "text_2": "QR Jeneratör Pro'yu destekler ve markanızı platformumuzda kalıcı olarak alır. Araç şirketleri, yazılım şirketleri veya küresel izleyicimize ulaşmak isteyen herkes için mükemmel.",
+    "text_3": "One-time ödeme",
+    "text_4": "Lifetime Sponsorluğu",
+    "text_5": "Logonuz belirgin bir şekilde görüntülendi",
+    "text_6": "Link to your website",
+    "text_7": "Özel sponsorluk (yalnızca 1 sponsor)",
+    "text_8": "binlerce günlük kullanıcıya ulaşmak",
+    "text_9": "Sponsorluğunuz",
+    "text_10": "İlk gelir, ilk servis. Sadece bir sponsor yuvası mevcut."
+  }
+}

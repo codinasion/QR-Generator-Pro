@@ -1,0 +1,142 @@
+{
+  "seo": {
+    "title": "Gratis QR-kodgenerator med Logo & Custom Design | Professionella QR-koder Online",
+    "description": "Skapa professionella QR-koder med anpassade logotyper, färger och mönster. Gratis online QR-kodgenerator för visitkort, menyer, evenemang och marknadsföringskampanjer. Ladda ner högkvalitativa PNG-, SVG-format direkt.",
+    "keywords": "QR-kodgenerator, anpassade QR-koder, QR-kod med logotyp, gratis QR-generator, affärs QR-koder, marknadsföring QR-koder, kontaktlös meny QR, händelse QR-koder, professionell QR-design",
+    "codinasion": "Kodinasion",
+    "og_title": "Professionell QR-kodgenerator med anpassad logo & design",
+    "og_description": "Generera fantastiska QR-koder med din logotyp och anpassade färger. Perfekt för företag, restauranger, evenemang och marknadsföringskampanjer. Gratis och omedelbar nedladdningar."
+  },
+  "navbar": {
+    "text_1": "QR Generator Pro",
+    "text_2": "funktioner",
+    "text_3": "Använda fall",
+    "text_4": "Recensioner",
+    "text_5": "Kom igång gratis"
+  },
+  "hero": {
+    "text_1": "Skapa professionella QR-koder i sekunder",
+    "text_2": "Generera fantastiska QR-koder med anpassade logotyper, färger och mönster. Perfekt för företag, evenemang, marknadsföringskampanjer och kontaktlösa upplevelser över hela världen.",
+    "text_3": "Börja skapa gratis",
+    "text_4": "100% gratis",
+    "text_5": "Ingen registrering",
+    "text_6": "Instant Download"
+  },
+  "component": {
+    "text_1": "Skapa din QR-kod",
+    "text_2": "Innehåll (URL, text, e-post, telefon, WiFi etc.)",
+    "text_3": "Ange URL, text, e-post, telefonnummer eller något innehåll",
+    "text_4": "Exempel",
+    "text_5": "Fel korrigeringsnivå",
+    "text_6": "Låg (7%)",
+    "text_7": "Medium (15%)",
+    "text_8": "Kvartil (25%)",
+    "text_9": "Hög (30%)",
+    "text_10": "Ladda ner Format",
+    "text_11": "PNG (rekommenderas)",
+    "text_12": "JPG",
+    "text_13": "SVG (Vector)",
+    "text_14": "Förgrundsfärg",
+    "text_15": "Bakgrundsfärg",
+    "text_16": "storlek",
+    "text_17": "Ladda upp Logo (Optional)",
+    "text_18": "Dra och släpp din logotyp eller klicka för att bläddra",
+    "text_19": "Rekommenderas: Fyrkantiga bilder, PNG/JPG, max 2MB",
+    "text_20": "Välj fil",
+    "text_21": "Ta bort Logo",
+    "text_22": "Live Preview",
+    "text_23": "Logo Added",
+    "text_24": "Ange innehåll för att generera QR-kod",
+    "text_25": "Ladda ner QR-kod",
+    "text_26": "Hög kvalitet",
+    "text_27": "format format",
+    "text_28": "storlek",
+    "text_29": "Felnivå",
+    "text_30": "Anpassad logotyp ingår"
+  },
+  "bmc": {
+    "text_1": "Njut av QR Generator Pro?",
+    "text_2": "Om det här verktyget har sparat dig tid och hjälpt ditt företag, överväga att köpa mig en kaffe! Ditt stöd hjälper till att hålla detta verktyg fritt och kontinuerligt förbättrat.",
+    "text_3": "Köp mig kaffe"
+  },
+  "features": {
+    "text_1": "Kraftfulla funktioner",
+    "text_2": "Allt du behöver för att skapa professionella QR-koder för ditt företag, evenemang och marknadsföringskampanjer.",
+    "text_3": "Anpassad Logo Integration",
+    "text_4": "Ladda upp din varumärkeslogotyp och integrera den sömlöst i dina QR-koder för förbättrad varumärkesigenkänning.",
+    "text_5": "Anpassade färger och design",
+    "text_6": "Välj bland obegränsade färgkombinationer och designalternativ för att matcha din varumärkesidentitet perfekt.",
+    "text_7": "High-Quality nedladdningar",
+    "text_8": "Ladda ner QR-koder i flera format (PNG, SVG, PDF) med skalbar vektorkvalitet.",
+    "text_9": "Integritet Fokuserad",
+    "text_10": "Dina uppgifter förblir säkra. Vi lagrar inte ditt QR-kodinnehåll eller personlig information.",
+    "text_11": "Lightning Fast",
+    "text_12": "Generera professionella QR-koder direkt med vår optimerade renderingmotor.",
+    "text_13": "Global kompatibilitet",
+    "text_14": "Fungerar med alla internationella karaktärer och stöder globala QR-kodstandarder."
+  },
+  "use_cases": {
+    "text_1": "Perfekt för varje industri",
+    "text_2": "Från restauranger till evenemang anpassar våra QR-koder till dina specifika behov och branschkrav.",
+    "text_3": "Restaurang",
+    "text_4": "Kontaktlösa matupplevelser",
+    "text_5": "Event biljetter",
+    "text_6": "Sömlösa incheckningsprocesser",
+    "text_7": "Affärskort",
+    "text_8": "Digitala nätverkslösningar",
+    "text_9": "App Downloads",
+    "text_10": "Direct App Store länkar",
+    "text_11": "Betalningslänkar",
+    "text_12": "Snabb betalningsbehandling",
+    "text_13": "Platsdelning",
+    "text_14": "GPS koordinater och kartor"
+  },
+  "fun_facts": {
+    "text_1": "QR Code Revolution",
+    "text_2": "Världen har anammat QR-koder som aldrig förr. Därför är de avgörande för modern verksamhet.",
+    "text_3": "QR-koder skannade dagligen",
+    "text_4": "Mobila användare skannar QR-koder",
+    "text_5": "Länder som använder QR-koder",
+    "text_6": "Genomsnittlig Scan Time"
+  },
+  "historical_context": {
+    "text_1": "QR Code Journey",
+    "text_2": "Födelse i Japan",
+    "text_3": "QR-koder uppfanns av Denso Wave för att spåra fordonsdelar i Toyota-fabriker.",
+    "text_4": "Pandemisk Boom",
+    "text_5": "COVID-19 accelererad QR-kodantagande för kontaktlösa interaktioner över hela världen.",
+    "text_6": "Idag idag idag",
+    "text_7": "Global standard",
+    "text_8": "QR-koder är nu viktiga för företag, marknadsföring och digitala upplevelser globalt."
+  },
+  "testimonials": {
+    "text_1": "Vad våra användare säger",
+    "text_2": "Gå med i tusentals nöjda användare från hela världen som litar på QR Generator Pro.",
+    "text_3": "Sarah Chen",
+    "text_4": "Marknadschef",
+    "text_5": "Denna QR-generator sparade otaliga timmar på vår globala kampanj. Den anpassade logotypen gjorde våra koder omedelbart igenkännliga!",
+    "text_6": "Ahmed Hassan",
+    "text_7": "Restaurang",
+    "text_8": "Perfekt för vår kontaktlösa meny. Lätt att använda, professionella resultat varje gång. Våra kunder älskar den rena designen!",
+    "text_9": "Maria Rodriguez",
+    "text_10": "Event Coordinator",
+    "text_11": "Används för 50+ internationella evenemang. Huvudgenereringsfunktionen och anpassade färger matchar vårt varumärke perfekt."
+  },
+  "cta": {
+    "text_1": "Redo att skapa fantastiska QR-koder?",
+    "text_2": "Gå med i miljontals användare över hela världen som skapar professionella QR-koder med vår gratis generator.",
+    "text_3": "Börja skapa nu - Det är gratis!"
+  },
+  "sponsor": {
+    "text_1": "Bli vår exklusiva sponsor",
+    "text_2": "Stöd QR Generator Pro och få ditt varumärke permanent på vår plattform. Perfekt för verktygsföretag, mjukvaruföretag eller någon som vill nå vår globala publik.",
+    "text_3": "Engångsbetalning",
+    "text_4": "Lifetime sponsorskap",
+    "text_5": "Din logotyp visas tydligt",
+    "text_6": "Länk till din webbplats",
+    "text_7": "Exklusiv sponsring (endast 1 sponsor)",
+    "text_8": "Nå tusentals dagliga användare",
+    "text_9": "Säkra din sponsor",
+    "text_10": "Först kommer, först serveras. Endast en sponsor slot tillgänglig."
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "seo": {
+    "title": "Ilmainen QR koodigeneraattori Logo & Custom Design ...",
+    "description": "Luo ammatillinen QR-koodit mukautettuja logoja, värejä ja malleja. Ilmainen online QR koodigeneraattori käyntikortteja, valikot, tapahtumia, ja markkinointikampanjoita. Lataa laadukkaita PNG-, SVG-formaatteja heti.",
+    "keywords": "QR-koodigeneraattori, mukautetun QR-koodit, QR-koodi logolla, vapaa QR-generaattori, liiketoiminnan QR-koodit, markkinointi QR-koodit, kontaktiton valikko QR, tapahtuma QR-koodit, ammatillinen QR-suunnittelu",
+    "codinasion": "Kodenoosi",
+    "og_title": "Professional QR Code Generator kanssa oma Logo & Design",
+    "og_description": "Luo upeat QR-koodit brändilogolla ja mukautetuilla väreillä. Täydellinen yrityksille, ravintoloita, tapahtumia, ja markkinointikampanjoita. Ilmainen ja välitön lataus."
+  },
+  "navbar": {
+    "text_1": "QR Generator Pro",
+    "text_2": "Ominaisuudet",
+    "text_3": "Käyttötapaukset",
+    "text_4": "Uudelleentarkastelu",
+    "text_5": "Aloita ilmaiseksi"
+  },
+  "hero": {
+    "text_1": "Luo ammatillisia QR-koodeja sekunneissa",
+    "text_2": "Luo upeita QR-koodeja mukautettuja logoja, värejä ja malleja. Täydellinen yrityksille, tapahtumia, markkinointikampanjoita, ja kontaktittomia kokemuksia ympäri maailmaa.",
+    "text_3": "Aloita luominen ilmaiseksi",
+    "text_4": "100% vapaa",
+    "text_5": "Ei rekisteröintiä",
+    "text_6": "Välitön lataus"
+  },
+  "component": {
+    "text_1": "Luo QR-koodisi",
+    "text_2": "Sisältö (URL, teksti, sähköposti, puhelin, WiFi jne.)",
+    "text_3": "Anna URL, teksti, sähköposti, puhelinnumero tai jokin sisältö",
+    "text_4": "Esimerkki",
+    "text_5": "Virhekorjaustaso",
+    "text_6": "Pieni (7%)",
+    "text_7": "Keskisuuri (15%)",
+    "text_8": "Kvartiili (25%)",
+    "text_9": "Korkea (30%)",
+    "text_10": "Lataa tiedostomuoto",
+    "text_11": "PNG (suositeltu)",
+    "text_12": "JPG",
+    "text_13": "SVG (Vector)",
+    "text_14": "Tulosaineiston väri",
+    "text_15": "Taustan väri",
+    "text_16": "Koko",
+    "text_17": "Lataa logo (valinnainen)",
+    "text_18": "Vedä & pudota logo tai napsauta selata",
+    "text_19": "Suositeltu: Neliökuvat, PNG/JPG, max 2MB",
+    "text_20": "Valitse tiedosto",
+    "text_21": "Poista logo",
+    "text_22": "Live- esikatselu",
+    "text_23": "Logo lisätty",
+    "text_24": "Anna sisältö QR-koodin tuottamiseksi",
+    "text_25": "Lataa QR-koodi",
+    "text_26": "Laadukas",
+    "text_27": "muoto",
+    "text_28": "Koko",
+    "text_29": "Virhetaso",
+    "text_30": "Mukaan lukien oma logo"
+  },
+  "bmc": {
+    "text_1": "Nautitko QR Generator Pro?",
+    "text_2": "Jos tämä työkalu on säästänyt aikaa ja auttanut yritystäsi, harkitse ostaa minulle kahvia! Tuki auttaa pitämään tämän työkalun vapaana ja jatkuvasti parannettuna.",
+    "text_3": "Osta minulle kahvia"
+  },
+  "features": {
+    "text_1": "Voimakkaat ominaisuudet",
+    "text_2": "Kaikki mitä tarvitset luoda ammattimaisia QR-koodeja yrityksesi, tapahtumia, ja markkinointikampanjoita.",
+    "text_3": "Oma logo integraatio",
+    "text_4": "Lataa brändilogosi ja integroi sen saumattomasti QR-koodeihisi brändin tunnistamisen parantamiseksi.",
+    "text_5": "Omat värit ja muotoilu",
+    "text_6": "Valitse rajattomasti väriyhdistelmiä ja suunnittelu vaihtoehtoja vastaamaan brändi identiteetti täydellisesti.",
+    "text_7": "Korkealaatuiset lataukset",
+    "text_8": "Lataa QR-koodit useissa muodoissa (PNG, SVG, PDF) skaalautuvalla vektorilaadulla.",
+    "text_9": "Yksityisyys",
+    "text_10": "Tietonne pysyvät turvassa. Emme säilytä QR-koodisi sisältöä tai henkilökohtaisia tietoja.",
+    "text_11": "Salama Nopea",
+    "text_12": "Luo ammattimaiset QR-koodit heti meidän optimoitu renderointi moottori.",
+    "text_13": "Kokonaisyhteensopivuus",
+    "text_14": "Toimii kaikkien kansainvälisten merkkien kanssa ja tukee maailmanlaajuisia QR-koodistandardeja."
+  },
+  "use_cases": {
+    "text_1": "Täydellinen jokaiselle teollisuudelle",
+    "text_2": "Ravintoloista tapahtumiin QR-koodimme mukautuvat erityistarpeisiisi ja alan vaatimuksiin.",
+    "text_3": "Ravintolalistat",
+    "text_4": "Kontaktittomat ruokailukokemukset",
+    "text_5": "Tapahtumaliput",
+    "text_6": "Saumaton sisäänkirjautuminen",
+    "text_7": "Yrityskortit",
+    "text_8": "Digitaaliset verkkoratkaisut",
+    "text_9": "Sovelluksen lataukset",
+    "text_10": "Suorat sovelluskaupan linkit",
+    "text_11": "Maksulinkit",
+    "text_12": "Nopea maksujen käsittely",
+    "text_13": "Sijainti",
+    "text_14": "GPS-koordinaatit ja kartat"
+  },
+  "fun_facts": {
+    "text_1": "QR-koodin vallankumous",
+    "text_2": "Maailma on omaksunut QR-koodit. Siksi ne ovat välttämättömiä modernille liiketoiminnalle.",
+    "text_3": "QR-koodit skannataan päivittäin",
+    "text_4": "Mobiilikäyttäjät Skannaa QR-koodit",
+    "text_5": "Maat, jotka käyttävät QR-koodeja",
+    "text_6": "Keskimääräinen skannausaika"
+  },
+  "historical_context": {
+    "text_1": "QR-koodin matka",
+    "text_2": "Syntymä Japanissa",
+    "text_3": "Denso Wave keksi QR-koodit autojen osien jäljittämiseksi Toyotan tehtaissa.",
+    "text_4": "Pandemic Boom",
+    "text_5": "COVID-19 kiihdytetty QR-koodin hyväksyminen kontaktittomien vuorovaikutusten osalta maailmanlaajuisesti.",
+    "text_6": "Tänään",
+    "text_7": "Maailmanlaajuinen standardi",
+    "text_8": "QR-koodit ovat nyt olennaisia liiketoiminnan, markkinoinnin ja digitaalisten kokemusten kannalta."
+  },
+  "testimonials": {
+    "text_1": "Mitä käyttäjät sanovat",
+    "text_2": "Liity tuhansiin tyytyväisiä käyttäjiä ympäri maailmaa, jotka luottavat QR Generator Pro.",
+    "text_3": "Sarah Chen",
+    "text_4": "Markkinointijohtaja",
+    "text_5": "Tämä QR-generaattori pelasti meitä lukemattomia tunteja maailmanlaajuisessa kampanjassamme. Oma logo ominaisuus teki koodit heti tunnistettava!",
+    "text_6": "Ahmed Hassan",
+    "text_7": "Ravintolan omistaja",
+    "text_8": "Täydellistä kontaktittomalle ruokalistallemme. Helppo käyttää, ammatillinen tuloksia joka kerta. Asiakkaamme rakastavat puhdasta muotoilua!",
+    "text_9": "Maria Rodriguez",
+    "text_10": "Tapahtumakoordinaattori",
+    "text_11": "Tätä käytettiin yli 50 kansainväliseen tapahtumaan. Bulk generation ominaisuus ja mukautetun värit vastaavat brändimme täydellisesti."
+  },
+  "cta": {
+    "text_1": "Oletko valmis luomaan hämmästyttäviä QR-koodeja?",
+    "text_2": "Liity miljoonia käyttäjiä ympäri maailmaa, jotka luovat ammattimaisia QR-koodeja meidän vapaa generaattori.",
+    "text_3": "Aloita Luominen nyt - Se on vapaa!"
+  },
+  "sponsor": {
+    "text_1": "Ryhdy ainoaksi sponsoriksemme",
+    "text_2": "Tuki QR Generator Pro ja saada brändisi pysyvästi esillä alustallamme. Täydellinen työkaluyrityksille, ohjelmistoyrityksille tai kaikille, jotka haluavat tavoittaa globaalin yleisömme.",
+    "text_3": "Kertamaksu",
+    "text_4": "Elinajan sponsorointi",
+    "text_5": "Logo näkyvästi esillä",
+    "text_6": "Linkki verkkosivustoosi",
+    "text_7": "Yksinomainen sponsorointi (vain 1 sponsori)",
+    "text_8": "Tavoittaa tuhansia päivittäin käyttäjiä",
+    "text_9": "Turvaa sponsorointisi",
+    "text_10": "Ensimmäinen tuli, ensimmäinen palveli. Vain yksi sponsoripaikka käytettävissä."
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "seo": {
+    "title": "Free QR Code Generator s logo & Custom Design",
+    "description": "Vytvorte profesionálne QR kódy s vlastnými logami, farbami a dizajnmi. Bezplatné on-line QR kód generátor pre vizitky, menu, udalosti a marketingové kampane. Stiahnite si vysoko kvalitné PNG, SVG formáty okamžite.",
+    "keywords": "QR kód generátor, vlastné QR kódy, QR kód s logom, zadarmo QR generátor, obchodné QR kódy, marketing QR kódy, bezkontaktné menu QR, QR kódy udalosti, profesionálny QR dizajn",
+    "codinasion": "Kodifikácia",
+    "og_title": "Profesionálny generátor QR kódu s vlastným logom a dizajnom",
+    "og_description": "Generovať ohromujúce QR kódy s logom značky a vlastné farby. Ideálne pre podniky, reštaurácie, podujatia a marketingové kampane. Bezplatné a okamžité sťahovanie."
+  },
+  "navbar": {
+    "text_1": "QR Generátor Pro",
+    "text_2": "Vlastnosti",
+    "text_3": "Prípady použitia",
+    "text_4": "Preskúmanie",
+    "text_5": "Začnite zadarmo"
+  },
+  "hero": {
+    "text_1": "Vytvoriť profesionálne QR kódy v sekundách",
+    "text_2": "Generovať ohromujúce QR kódy s vlastnými logami, farbami a dizajnmi. Ideálne pre podniky, akcie, marketingové kampane a bezkontaktné skúsenosti po celom svete.",
+    "text_3": "Začnite vytvárať zadarmo",
+    "text_4": "100% bez cla",
+    "text_5": "Žiadna registrácia",
+    "text_6": "Okamžité stiahnutie"
+  },
+  "component": {
+    "text_1": "Generovať QR kód",
+    "text_2": "Obsah (URL, text, e-mail, telefón, WiFi atď.)",
+    "text_3": "Zadajte URL, text, e-mail, telefónne číslo alebo akýkoľvek obsah",
+    "text_4": "Príklad",
+    "text_5": "Úroveň opravy chyby",
+    "text_6": "Nízka (7%)",
+    "text_7": "Stredná (15%)",
+    "text_8": "Kvartil (25%)",
+    "text_9": "Vysoká (30%)",
+    "text_10": "Formát na stiahnutie",
+    "text_11": "PNG (odporúčané)",
+    "text_12": "JPG",
+    "text_13": "SVG (Vektor)",
+    "text_14": "Farba popredia",
+    "text_15": "Farba pozadia",
+    "text_16": "Veľkosť",
+    "text_17": "Odoslať logo (nepovinné)",
+    "text_18": "Drag & drop logo alebo kliknite pre prehliadanie",
+    "text_19": "Odporúčané: Square images, PNG/JPG, max 2MB",
+    "text_20": "Vyberte súbor",
+    "text_21": "Odstrániť logo",
+    "text_22": "Náhľad",
+    "text_23": "Pridané logo",
+    "text_24": "Zadajte obsah pre generovanie QR kódu",
+    "text_25": "Stiahnuť QR kód",
+    "text_26": "Vysoká kvalita",
+    "text_27": "formát",
+    "text_28": "Veľkosť",
+    "text_29": "Úroveň chyby",
+    "text_30": "Vlastné logo vrátane"
+  },
+  "bmc": {
+    "text_1": "Užívate si QR Generator Pro?",
+    "text_2": "Ak tento nástroj vám ušetril čas a pomohol svoj podnik, zvážte kúpu mi kávu! Vaša podpora pomáha udržať tento nástroj voľný a neustále sa zlepšuje.",
+    "text_3": "Kúp mi kávu."
+  },
+  "features": {
+    "text_1": "Mocné vlastnosti",
+    "text_2": "Všetko, čo potrebujete na vytvorenie profesionálnych QR kódov pre vaše podnikanie, akcie, a marketingové kampane.",
+    "text_3": "Vlastná integrácia loga",
+    "text_4": "Nahrajte svoje logo značky a bezproblémovo ho integrujte do QR kódov pre lepšie rozpoznávanie značky.",
+    "text_5": "Vlastné farby a dizajn",
+    "text_6": "Vyberte si z neobmedzených farebných kombinácií a možností dizajnu, aby dokonale zodpovedali vašej identite značky.",
+    "text_7": "Stiahnutie vysokej kvality",
+    "text_8": "Stiahnuť QR kódy vo viacerých formátoch (PNG, SVG, PDF) s škálovateľnou vektorovou kvalitou.",
+    "text_9": "Súkromie zamerané",
+    "text_10": "Vaše dáta zostávajú v bezpečí. Neukladáme obsah QR kódu ani osobné údaje.",
+    "text_11": "Blesk rýchly",
+    "text_12": "Okamžite generujte profesionálne QR kódy s naším optimalizovaným vykresľovacím motorom.",
+    "text_13": "Globálna zlučiteľnosť",
+    "text_14": "Pracuje so všetkými medzinárodnými znakmi a podporuje štandardy QR kódu po celom svete."
+  },
+  "use_cases": {
+    "text_1": "Ideálne pre každý priemysel",
+    "text_2": "Od reštaurácií až po udalosti, naše QR kódy prispôsobiť vašim špecifickým potrebám a požiadavkám priemyslu.",
+    "text_3": "Reštaurácia Menus",
+    "text_4": "Bezkontaktné jedálenské zážitky",
+    "text_5": "Lístky na udalosti",
+    "text_6": "Bezšvové kontrolné procesy",
+    "text_7": "Karty",
+    "text_8": "Digitálne sieťové riešenia",
+    "text_9": "Sťahovanie aplikácií",
+    "text_10": "Priame odkazy na ukladanie aplikácií",
+    "text_11": "Platobné odkazy",
+    "text_12": "Rýchle spracovanie platieb",
+    "text_13": "Delenie polohy",
+    "text_14": "GPS súradnice a mapy"
+  },
+  "fun_facts": {
+    "text_1": "Revolúcia QR kódu",
+    "text_2": "Svet prijal QR kódy ako nikdy predtým. Tu je dôvod, prečo sú nevyhnutné pre moderné podnikanie.",
+    "text_3": "QR kódy skenované denne",
+    "text_4": "Mobilní používatelia Skenovanie QR kódov",
+    "text_5": "Krajiny používajúce QR kódy",
+    "text_6": "Priemerný čas skenovania"
+  },
+  "historical_context": {
+    "text_1": "Cesta QR kódu",
+    "text_2": "Narodenie v Japonsku",
+    "text_3": "QR kódy boli vynájdené Denso Wave pre sledovanie automobilových dielov v továrňach Toyota.",
+    "text_4": "Pandemic Boom",
+    "text_5": "COVID- 19 zrýchlený QR kód prijatie pre bezkontaktné interakcie po celom svete.",
+    "text_6": "Dnes",
+    "text_7": "Globálna norma",
+    "text_8": "QR kódy sú teraz nevyhnutné pre podnikanie, marketing a digitálne skúsenosti na celom svete."
+  },
+  "testimonials": {
+    "text_1": "Čo hovoria naši používatelia",
+    "text_2": "Pridajte sa k tisícom spokojných užívateľov z celého sveta, ktorí dôverujú QR Generator Pro.",
+    "text_3": "Sarah Chen",
+    "text_4": "Marketingový riaditeľ",
+    "text_5": "Tento QR generátor nám ušetril nespočetné hodiny na našej globálnej kampani. Vlastné logo z našich kódov okamžite rozoznateľné!",
+    "text_6": "Ahmed Hassan",
+    "text_7": "Vlastník reštaurácie",
+    "text_8": "Ideálne pre naše bezkontaktné menu. Jednoduché použitie, profesionálne výsledky zakaždým. Naši zákazníci milujú čistý dizajn!",
+    "text_9": "Maria Rodriguez",
+    "text_10": "Koordinátor podujatia",
+    "text_11": "Používa sa na 50+ medzinárodné podujatia. Veľkoobjemové generovanie funkcie a vlastné farby dokonale zodpovedajú našej značke."
+  },
+  "cta": {
+    "text_1": "Pripravení vytvoriť úžasné QR kódy?",
+    "text_2": "Pripojte sa k miliónom užívateľov po celom svete, ktorí vytvárajú profesionálne QR kódy s naším bezplatným generátorom.",
+    "text_3": "Začnite vytvárať teraz - Je to zadarmo!"
+  },
+  "sponsor": {
+    "text_1": "Staňte sa naším výhradným sponzorom",
+    "text_2": "Podpora QR Generator Pro a dostať svoju značku trvale na našej platforme. Ideálne pre firmy s náradím, softvérové firmy alebo ktokoľvek, kto chce osloviť naše globálne publikum.",
+    "text_3": "Jednorázová platba",
+    "text_4": "Celoživotné sponzorstvo",
+    "text_5": "Zobrazené logo",
+    "text_6": "Odkaz na vaše webové stránky",
+    "text_7": "Exkluzívne sponzorstvo (iba 1 sponzor)",
+    "text_8": "Dosiahnuť tisíce každodenných užívateľov",
+    "text_9": "Zabezpečte si sponzorovanie",
+    "text_10": "Prvý príde, prvý slúžil. K dispozícii je len jeden sponzorský slot."
+  }
+}

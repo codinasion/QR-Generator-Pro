@@ -1,0 +1,142 @@
+{
+  "seo": {
+    "title": "Gerador de código QR gratuito com Logotipo e Design Personalizado",
+    "description": "Crie códigos QR profissionais com logotipos, cores e designs personalizados. Gerador de código QR online gratuito para cartões de visita, menus, eventos e campanhas de marketing. Baixe PNG de alta qualidade, formatos SVG instantaneamente.",
+    "keywords": "Gerador de código QR, códigos QR personalizados, código QR com logotipo, gerador QR gratuito, códigos QR de negócios, códigos QR de marketing, menu QR sem contato, códigos QR de evento, design QR profissional",
+    "codinasion": "Codinação",
+    "og_title": "Gerador de código QR profissional com logotipo personalizado e design",
+    "og_description": "Gere códigos QR impressionantes com seu logotipo da marca e cores personalizadas. Perfeito para empresas, restaurantes, eventos e campanhas de marketing. Transferências gratuitas e instantâneas."
+  },
+  "navbar": {
+    "text_1": "Gerador QR Pro",
+    "text_2": "Características",
+    "text_3": "Casos de Uso",
+    "text_4": "Revisões",
+    "text_5": "Começar de graça"
+  },
+  "hero": {
+    "text_1": "Criar códigos QR profissionais em segundos",
+    "text_2": "Gere códigos QR impressionantes com logotipos personalizados, cores e designs. Perfeito para empresas, eventos, campanhas de marketing e experiências sem contato em todo o mundo.",
+    "text_3": "Iniciar a Criação Livre",
+    "text_4": "100% Livre",
+    "text_5": "Sem registro",
+    "text_6": "Transferência Instantânea"
+  },
+  "component": {
+    "text_1": "Gere seu código QR",
+    "text_2": "Conteúdo (URL, Texto, Email, Telefone, WiFi, etc.)",
+    "text_3": "Digite URL, texto, e-mail, número de telefone ou qualquer conteúdo",
+    "text_4": "Exemplo",
+    "text_5": "Nível de Correção de Erros",
+    "text_6": "Baixa (7%)",
+    "text_7": "Média (15%)",
+    "text_8": "Quartil (25%)",
+    "text_9": "Alta (30%)",
+    "text_10": "Formato de Transferência",
+    "text_11": "PNG (recomendado)",
+    "text_12": "JPG",
+    "text_13": "SVG (Vector)",
+    "text_14": "Cor Principal",
+    "text_15": "Cor de Fundo",
+    "text_16": "Tamanho",
+    "text_17": "Enviar o Logotipo (Opcional)",
+    "text_18": "Arraste e largue o seu logotipo ou clique para navegar",
+    "text_19": "Recomendado: Imagens quadradas, PNG/JPG, max 2MB",
+    "text_20": "Escolher arquivo",
+    "text_21": "Remover o Logo",
+    "text_22": "Visualização ao vivo",
+    "text_23": "Logo adicionado",
+    "text_24": "Digite conteúdo para gerar código QR",
+    "text_25": "Transferir o Código QR",
+    "text_26": "Alta qualidade",
+    "text_27": "formato",
+    "text_28": "Tamanho",
+    "text_29": "Nível de Erro",
+    "text_30": "Logotipo personalizado incluído"
+  },
+  "bmc": {
+    "text_1": "Gostando de QR Generator Pro?",
+    "text_2": "Se esta ferramenta lhe salvou tempo e ajudou seu negócio, considere me comprar um café! Seu suporte ajuda a manter esta ferramenta livre e continuamente melhorada.",
+    "text_3": "Compre-me um café"
+  },
+  "features": {
+    "text_1": "Recursos Poderosos",
+    "text_2": "Tudo o que você precisa para criar códigos QR profissionais para suas campanhas de negócios, eventos e marketing.",
+    "text_3": "Integração de Logotipo Personalizada",
+    "text_4": "Envie o logotipo da sua marca e integre-o perfeitamente em seus códigos QR para reconhecimento aprimorado da marca.",
+    "text_5": "Desenho & Cores Personalizadas",
+    "text_6": "Escolha entre combinações de cores ilimitadas e opções de design para combinar perfeitamente com sua identidade de marca.",
+    "text_7": "Downloads de Alta Qualidade",
+    "text_8": "Baixe códigos QR em vários formatos (PNG, SVG, PDF) com qualidade vetorial escalável.",
+    "text_9": "Privacidade Focada",
+    "text_10": "Os seus dados permanecem seguros. Nós não armazenamos seu conteúdo de código QR ou informações pessoais.",
+    "text_11": "Relâmpago Rápido",
+    "text_12": "Gere códigos QR profissionais instantaneamente com o nosso motor de renderização otimizado.",
+    "text_13": "Compatibilidade Global",
+    "text_14": "Funciona com todos os caracteres internacionais e suporta padrões mundiais de código QR."
+  },
+  "use_cases": {
+    "text_1": "Perfeito para cada indústria",
+    "text_2": "De restaurantes a eventos, nossos códigos QR se adaptam às suas necessidades específicas e exigências da indústria.",
+    "text_3": "Menus de Restaurante",
+    "text_4": "Experiências gastronómicas sem contacto",
+    "text_5": "Ingressos de Eventos",
+    "text_6": "Processos de verificação sem costura",
+    "text_7": "Cartões de visita",
+    "text_8": "Soluções de rede digital",
+    "text_9": "Transferências de Aplicações",
+    "text_10": "Links diretos da loja de aplicativos",
+    "text_11": "Ligações de pagamento",
+    "text_12": "Processamento rápido de pagamentos",
+    "text_13": "Partilha de Localização",
+    "text_14": "Coordenadas e mapas GPS"
+  },
+  "fun_facts": {
+    "text_1": "Revolução de Código QR",
+    "text_2": "O mundo abraçou códigos QR como nunca antes. Eis porque são essenciais para os negócios modernos.",
+    "text_3": "Códigos QR digitalizados diariamente",
+    "text_4": "Usuários móveis Digitalizar códigos QR",
+    "text_5": "Países que utilizam códigos QR",
+    "text_6": "Tempo médio de digitalização"
+  },
+  "historical_context": {
+    "text_1": "A Jornada do Código QR",
+    "text_2": "Nascimento no Japão",
+    "text_3": "Os códigos QR foram inventados pela Denso Wave para rastrear peças automotivas em fábricas Toyota.",
+    "text_4": "Boom Pandémico",
+    "text_5": "COVID-19 acelerado Adoção de código QR para interações sem contato em todo o mundo.",
+    "text_6": "Hoje",
+    "text_7": "Padrão Global",
+    "text_8": "Os códigos QR são agora essenciais para as experiências empresariais, de marketing e digitais em todo o mundo."
+  },
+  "testimonials": {
+    "text_1": "O que nossos usuários dizem",
+    "text_2": "Junte-se a milhares de usuários satisfeitos de todo o mundo que confiam no QR Generator Pro.",
+    "text_3": "Sarah Chen",
+    "text_4": "Director de Marketing",
+    "text_5": "Este gerador QR nos salvou inúmeras horas em nossa campanha global. O recurso de logotipo personalizado tornou nossos códigos imediatamente reconhecíveis!",
+    "text_6": "Ahmed Hassan",
+    "text_7": "Proprietário do Restaurante",
+    "text_8": "Perfeito para o nosso menu sem contacto. Fácil de usar, resultados profissionais sempre. Nossos clientes adoram o design limpo!",
+    "text_9": "Maria Rodriguez",
+    "text_10": "Coordenador de eventos",
+    "text_11": "Usou isto para mais de 50 eventos internacionais. A característica de geração em massa e cores personalizadas combinam perfeitamente com a nossa marca."
+  },
+  "cta": {
+    "text_1": "Pronto para criar códigos QR surpreendentes?",
+    "text_2": "Junte-se a milhões de usuários em todo o mundo que criam códigos QR profissionais com nosso gerador gratuito.",
+    "text_3": "Iniciar a Criação Agora - É grátis!"
+  },
+  "sponsor": {
+    "text_1": "Torne-se nosso patrocinador exclusivo",
+    "text_2": "Suporte QR Generator Pro e obter sua marca destaque permanentemente em nossa plataforma. Perfeito para empresas de ferramentas, empresas de software ou qualquer um que queira alcançar nosso público global.",
+    "text_3": "Pagamento único",
+    "text_4": "Patrocínio vitalício",
+    "text_5": "Seu logotipo proeminentemente exibido",
+    "text_6": "Link para o seu site",
+    "text_7": "patrocínio exclusivo (apenas 1 patrocinador)",
+    "text_8": "Alcançar milhares de usuários diários",
+    "text_9": "Proteja seu patrocínio",
+    "text_10": "Primeiro a chegar, primeiro a ser servido. Apenas um slot de patrocinador disponível."
+  }
+}

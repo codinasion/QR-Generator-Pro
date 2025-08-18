@@ -1,0 +1,142 @@
+{
+  "seo": {
+    "title": "Free QR Code Generator z Logo & Custom Design ",
+    "description": "Ustvarite profesionalne QR kode z logotipi, barvami in dizajni po meri. Brezplačni spletni generator QR kode za poslovne kartice, menije, dogodki, in marketinške kampanje. Prenesite visoko kakovostne PNG, SVG formatov takoj.",
+    "keywords": "QR koda generator, po meri QR kode, QR koda z logotipom, brezplačno QR generator, poslovne QR kode, trženje QR kode, brezkontaktni meni QR, dogodek QR kode, strokovno QR oblikovanje",
+    "codinasion": "Kodinazija",
+    "og_title": "Profesionalni generator QR kode s po meri logo in oblikovanje",
+    "og_description": "Ustvarite osupljive QR kode z logotipom blagovne znamke in barvami po meri. Idealno za podjetja, restavracije, prireditve in tržne akcije. Brezplačni in takojšnji prenosi."
+  },
+  "navbar": {
+    "text_1": "QR Generator Pro",
+    "text_2": "Značilnosti",
+    "text_3": "Uporabi primere",
+    "text_4": "Pregledi",
+    "text_5": "Zaženi brezplačno"
+  },
+  "hero": {
+    "text_1": "Ustvari profesionalne kode QR v sekundah",
+    "text_2": "Ustvarite osupljive QR kode s po meri logotipi, barve, in modelov. Idealno za podjetja, prireditve, marketinške kampanje in brezkontaktne izkušnje po vsem svetu.",
+    "text_3": "Začni ustvarjati prosto",
+    "text_4": "100% prosto",
+    "text_5": "Brez registracije",
+    "text_6": "Instant Prenesi"
+  },
+  "component": {
+    "text_1": "Ustvarite svojo kodo QR",
+    "text_2": "Vsebina (URL, besedilo, e-pošta, telefon, WiFi itd.)",
+    "text_3": "Vnesite URL, besedilo, e- pošto, telefonsko številko ali katero koli vsebino",
+    "text_4": "Primer",
+    "text_5": "Stopnja popravka napake",
+    "text_6": "Nizka (7 %)",
+    "text_7": "srednje (15 %)",
+    "text_8": "kvartil (25 %)",
+    "text_9": "Visoka (30 %)",
+    "text_10": "Oblika prejemanja",
+    "text_11": "PNG (priporočeno)",
+    "text_12": "JPG",
+    "text_13": "SVG (vektor)",
+    "text_14": "Barva ospredja",
+    "text_15": "Barva ozadja",
+    "text_16": "Velikost",
+    "text_17": "Pošlji logotip (neobvezno)",
+    "text_18": "Povlecite in spustite logotip ali kliknite za brskanje",
+    "text_19": "Priporočeno: Kvadratne slike, PNG/JPG, max 2MB",
+    "text_20": "Izberite datoteko",
+    "text_21": "Odstrani znak",
+    "text_22": "Ogled v živo",
+    "text_23": "Logotip dodan",
+    "text_24": "Vnesite vsebino za ustvarjanje kode QR",
+    "text_25": "Prenesi kodo QR",
+    "text_26": "Visoka kakovost",
+    "text_27": "oblika",
+    "text_28": "Velikost",
+    "text_29": "Stopnja napake",
+    "text_30": "Prilagojeni logotip je vključen"
+  },
+  "bmc": {
+    "text_1": "Uživate v QR Generator Pro?",
+    "text_2": "Če vam je to orodje prihranilo čas in pomagalo vašemu poslu, razmislite o nakupu kave! Vaša podpora pomaga ohraniti to orodje brezplačno in nenehno izboljšati.",
+    "text_3": "Kupi mi kavo."
+  },
+  "features": {
+    "text_1": "Močne lastnosti",
+    "text_2": "Vse, kar potrebujete za ustvarjanje profesionalnih QR kod za vaše poslovanje, dogodki, in marketinške kampanje.",
+    "text_3": "Integracija lastnega logotipa",
+    "text_4": "Naložite logotip blagovne znamke in ga brezhibno integrirajte v QR kode za večjo prepoznavnost blagovne znamke.",
+    "text_5": "Barve in oblikovanje po meri",
+    "text_6": "Izberite iz neomejenih barvnih kombinacij in možnosti oblikovanja, da se popolnoma ujemajo z vašo identiteto blagovne znamke.",
+    "text_7": "Prenosi visoke kakovosti",
+    "text_8": "Download QR kode v več formatih (PNG, SVG, PDF) s povečavo vektorske kakovosti.",
+    "text_9": "Osredotočena na zasebnost",
+    "text_10": "Vaši podatki ostanejo varni. Ne hranimo vaše vsebine QR kode ali osebnih podatkov.",
+    "text_11": "Strela, hitro.",
+    "text_12": "Ustvarite profesionalne QR kode takoj z našim optimiziranim motorjem upodabljanja.",
+    "text_13": "Globalna združljivost",
+    "text_14": "Deluje z vsemi mednarodnimi znaki in podpira svetovne standarde QR kode."
+  },
+  "use_cases": {
+    "text_1": "Idealen za vsako industrijo",
+    "text_2": "Od restavracij do dogodkov se naše QR kode prilagajajo vašim posebnim potrebam in industrijskim zahtevam.",
+    "text_3": "Restavracijski meniji",
+    "text_4": "Brezstično uživanje v hrani",
+    "text_5": "Vstopnice za dogodke",
+    "text_6": "Brezšivni postopki prijave",
+    "text_7": "Poslovne kartice",
+    "text_8": "Digitalne rešitve za mreženje",
+    "text_9": "Prenosi aplikacij",
+    "text_10": "Neposredne povezave za shranjevanje aplikacij",
+    "text_11": "Povezave plačil",
+    "text_12": "Hitra obdelava plačil",
+    "text_13": "Souporaba lokacije",
+    "text_14": "GPS koordinate in zemljevidi"
+  },
+  "fun_facts": {
+    "text_1": "Revolucija kode QR",
+    "text_2": "Svet je sprejel QR kode kot še nikoli. Zato so bistvenega pomena za moderen posel.",
+    "text_3": "Dnevno skenirane kode QR",
+    "text_4": "Mobilni uporabniki Skenirajte kode QR",
+    "text_5": "Države, ki uporabljajo kode QR",
+    "text_6": "Povprečni čas skeniranja"
+  },
+  "historical_context": {
+    "text_1": "Potovanje po kodah QR",
+    "text_2": "Rojstvo na Japonskem",
+    "text_3": "QR kode je izumil Denso Wave za sledenje avtomobilskih delov v tovarnah Toyota.",
+    "text_4": "Pandemični boom",
+    "text_5": "COVID-19 pospešeno Sprejem kode QR za brezkontaktne interakcije po vsem svetu.",
+    "text_6": "Danes",
+    "text_7": "Globalni standard",
+    "text_8": "Kode QR so zdaj ključne za podjetja, trženje in digitalne izkušnje na svetovni ravni."
+  },
+  "testimonials": {
+    "text_1": "Kaj pravijo naši uporabniki",
+    "text_2": "Pridružite se tisoče zadovoljnih uporabnikov iz celega sveta, ki zaupajo QR Generator Pro.",
+    "text_3": "Sarah Chen",
+    "text_4": "Direktor trženja",
+    "text_5": "Ta QR generator nam je prihranil nešteto ur na naši globalni kampanji. Logotip po meri je naše kode takoj prepoznal!",
+    "text_6": "Ahmed Hassan",
+    "text_7": "Lastnik restavracije",
+    "text_8": "Idealen za naš brezkontaktni meni. Enostaven za uporabo, profesionalni rezultati vsakič. Naše stranke obožujejo čist dizajn!",
+    "text_9": "Maria Rodriguez",
+    "text_10": "Koordinator dogodka",
+    "text_11": "Uporablja se za 50+ mednarodne dogodke. Masa generacija funkcija in barve po meri popolnoma ustrezajo naši blagovni znamki."
+  },
+  "cta": {
+    "text_1": "Ali ste pripravljeni ustvariti osupljive kode QR?",
+    "text_2": "Pridružite se milijonom uporabnikov po vsem svetu, ki ustvarjajo profesionalne QR kode z našim brezplačnim generatorjem.",
+    "text_3": "Začni ustvarjati zdaj - Zastonj je!"
+  },
+  "sponsor": {
+    "text_1": "Postanite naš ekskluzivni sponzor",
+    "text_2": "Podpora QR Generator Pro in dobili svojo blagovno znamko trajno na naši platformi. Idealna za orodjarna, programska podjetja, ali kdorkoli, ki želi doseči naše svetovno občinstvo.",
+    "text_3": "Enkratno plačilo",
+    "text_4": "Vseživljenjsko sponzorstvo",
+    "text_5": "Vaš logotip je vidno prikazan",
+    "text_6": "Povezava na vašo spletno stran",
+    "text_7": "Ekskluzivno sponzorstvo (samo 1 sponzor)",
+    "text_8": "Doseže na tisoče dnevnih uporabnikov",
+    "text_9": "Zavarujte svoje sponzorstvo",
+    "text_10": "Prvi pride, prvi melje. Na voljo je samo en režo sponzorja."
+  }
+}
