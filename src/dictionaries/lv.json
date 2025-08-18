@@ -1,0 +1,142 @@
+{
+  "seo": {
+    "title": "Bezmaksas QR koda ģenerators ar logotipu un pielāgotu dizainu    ) Profesionālie QR kodi tiešsaistē",
+    "description": "Izveidot profesionālu QR kodus ar pielāgotu logotipiem, krāsas, un dizainu. Bezmaksas tiešsaistes QR kodu ģenerators vizītkartēm, izvēlnes, notikumi, un mārketinga kampaņas. Lejupielādēt augstas kvalitātes PNG, SVG formātus uzreiz.",
+    "keywords": "QR kodu ģenerators, pielāgoti QR kodi, QR kods ar logo, bezmaksas QR ģenerators, biznesa QR kodi, mārketinga QR kodi, bezkontakta izvēlne QR, notikuma QR kodi, profesionāls QR dizains",
+    "codinasion": "Kodinazija",
+    "og_title": "Profesionāls QR koda ģenerators ar pielāgotu logotipu un dizainu",
+    "og_description": "Ģenerēt apdullināšanu QR kodus ar savu zīmolu logo un pielāgotas krāsas. Ideāli piemērots uzņēmumiem, restorāniem, pasākumiem, un mārketinga kampaņas. Bezmaksas un tūlītēju lejupielādes."
+  },
+  "navbar": {
+    "text_1": "QR ģenerators Pro",
+    "text_2": "Īpašības",
+    "text_3": "Lietot mapes",
+    "text_4": "Pārskatīšana",
+    "text_5": "Brīvs"
+  },
+  "hero": {
+    "text_1": "Izveidot profesionālus QR kodus sekundēs",
+    "text_2": "Ģenerēt apdullināšanu QR kodus ar pielāgotu logotipiem, krāsas, un dizainu. Ideāli piemērots uzņēmumiem, pasākumiem, mārketinga kampaņas, un bezkontakta pieredzi visā pasaulē.",
+    "text_3": "Sākt veidot bezmaksas",
+    "text_4": "100% bezmaksas",
+    "text_5": "Nav reģistrācijas",
+    "text_6": "Tūlītēja lejupielāde"
+  },
+  "component": {
+    "text_1": "Vispārējs",
+    "text_2": "Saturs (URL, teksts, e-pasts, tālrunis, WiFi utt.)",
+    "text_3": "Ievadiet URL, tekstu, e-pastu, tālruņa numuru vai jebkādu saturu",
+    "text_4": "Piemērs",
+    "text_5": "Kļūdas labošanas līmenis",
+    "text_6": "Zems (7%)",
+    "text_7": "Vidējs (15%)",
+    "text_8": "Kvartile (25%)",
+    "text_9": "Augsta (30 %)",
+    "text_10": "Lejupielādēt formātu",
+    "text_11": "PNG (ieteicams)",
+    "text_12": "JPG",
+    "text_13": "SVG (Vector)",
+    "text_14": "Priekšplāna krāsa",
+    "text_15": "Fona krāsa",
+    "text_16": "Izmērs",
+    "text_17": "Augšupielādes logotips (pēc izvēles)",
+    "text_18": "Velciet & nometiet logo vai nospiediet lai pārlūkotu",
+    "text_19": "Ieteicams: Kvadrātveida attēli, PNG/JPG, ne vairāk kā 2MB",
+    "text_20": "Izvēlieties failu",
+    "text_21": "Izņemt logu",
+    "text_22": "Priekšskatījums",
+    "text_23": "Logo pievienots",
+    "text_24": "Ievadiet QR koda ģenerēšanas saturu",
+    "text_25": "Lejupielādēt QR kodu",
+    "text_26": "Augsta kvalitāte",
+    "text_27": "Formāts",
+    "text_28": "Izmērs",
+    "text_29": "Kļūdas līmenis",
+    "text_30": "Pielāgots logo iekļauts"
+  },
+  "bmc": {
+    "text_1": "Baudīt QR ģenerators Pro?",
+    "text_2": "Ja šis rīks ir ietaupījis jums laiku un palīdzēja jūsu biznesu, apsveriet pirkt man kafiju! Jūsu atbalsts palīdz saglabāt šo rīku bez maksas un nepārtraukti uzlabota.",
+    "text_3": "Iegādāties man kafiju"
+  },
+  "features": {
+    "text_1": "Spēcīgas īpašības",
+    "text_2": "Viss, kas jums nepieciešams, lai izveidotu profesionālus QR kodus jūsu biznesam, notikumi, un mārketinga kampaņas.",
+    "text_3": "Pielāgota logointegrācija",
+    "text_4": "Augšupielādējiet savu zīmola logotipu un nemanāmi integrējiet to QR kodos, lai uzlabotu zīmola atpazīstamību.",
+    "text_5": "Pielāgotas krāsas un dizains",
+    "text_6": "Izvēlēties no neierobežotas krāsu kombinācijas un dizaina iespējas, lai perfekti atbilstu jūsu zīmola identitāti.",
+    "text_7": "Augstas kvalitātes lejupielādes",
+    "text_8": "Lejupielādēt QR kodus vairākos formātos (PNG, SVG, PDF) ar mērogojamu vektoru kvalitāti.",
+    "text_9": "Koncentrēta uz privātumu",
+    "text_10": "Jūsu dati paliek drošībā. Mēs neglabājam jūsu QR koda saturu vai personisko informāciju.",
+    "text_11": "Ātri zibens",
+    "text_12": "Ģenerēt profesionālo QR kodus uzreiz ar mūsu optimizēto renderēšanas dzinēju.",
+    "text_13": "Globālā savietojamība",
+    "text_14": "Strādā ar visām starptautiskajām rakstzīmēm un atbalsta pasaules QR koda standartus."
+  },
+  "use_cases": {
+    "text_1": "Ideāls katrai nozarei",
+    "text_2": "No restorāniem līdz pasākumiem, mūsu QR kodi pielāgoties jūsu īpašajām vajadzībām un nozares prasībām.",
+    "text_3": "Restorāna izvēlnes",
+    "text_4": "Bezkontakta ēdināšana",
+    "text_5": "Pasākuma biļetes",
+    "text_6": "Bezšuvju reģistrācijas procesi",
+    "text_7": "Biznesa kartes",
+    "text_8": "Digitālo tīklu risinājumi",
+    "text_9": "Programmu lejupielādes",
+    "text_10": "Tiešās lietotņu glabāšanas saites",
+    "text_11": "Maksājumu saites",
+    "text_12": "Ātrā maksājumu apstrāde",
+    "text_13": "Atrašanās vietas koplietošana",
+    "text_14": "GPS koordinātas un kartes"
+  },
+  "fun_facts": {
+    "text_1": "QR koda revolūcija",
+    "text_2": "Pasaule ir pieņēmusi QR kodus kā nekad agrāk. Lūk, kāpēc tie ir būtiski mūsdienu biznesam.",
+    "text_3": "QR kodi skenēti katru dienu",
+    "text_4": "Mobilie lietotāji skenē QR kodus",
+    "text_5": "Valstis, kas izmanto QR kodus",
+    "text_6": "Vidējais skenēšanas laiks"
+  },
+  "historical_context": {
+    "text_1": "QR koda ceļojums",
+    "text_2": "Dzimšana Japānā",
+    "text_3": "QR kodus izgudroja Denso Wave automašīnu detaļu izsekošanai Toyota rūpnīcās.",
+    "text_4": "Pandēmiskais sprādziens",
+    "text_5": "COVID-19 paātrināts QR koda pieņemšana bezkontakta mijiedarbībai visā pasaulē.",
+    "text_6": "Šodien",
+    "text_7": "Globālais standarts",
+    "text_8": "QR kodi tagad ir būtiski uzņēmējdarbībai, mārketingam un digitālajai pieredzei visā pasaulē."
+  },
+  "testimonials": {
+    "text_1": "Ko saka mūsu lietotāji",
+    "text_2": "Pievienoties tūkstošiem apmierinātu lietotāju no visas pasaules, kuri uzticas QR Generator Pro.",
+    "text_3": "Sarah Chen",
+    "text_4": "Mārketinga direktors",
+    "text_5": "Šis QR ģenerators izglāba mums neskaitāmas stundas mūsu globālajā kampaņā. Pielāgotā logo iezīme padarīja mūsu kodus uzreiz atpazīstamus!",
+    "text_6": "Ahmed Hassan",
+    "text_7": "Restorāna īpašnieks",
+    "text_8": "Ideāli piemērots mūsu bezkontakta ēdienkartei. Viegli lietot, profesionāli rezultāti katru reizi. Mūsu klientiem patīk tīrais dizains!",
+    "text_9": "Komisijas locekle",
+    "text_10": "Notikumu koordinators",
+    "text_11": "Izmanto šo 50+ starptautiskiem pasākumiem. Masas paaudzes iezīme un pasūtījuma krāsas atbilst mūsu zīmolu perfekti."
+  },
+  "cta": {
+    "text_1": "Gatavs radīt apbrīnojamus QR kodus?",
+    "text_2": "Pievienoties miljoniem lietotāju visā pasaulē, kas rada profesionālu QR kodus ar mūsu bezmaksas ģenerators.",
+    "text_3": "Sākt radīt tagad - Tā ir brīva!"
+  },
+  "sponsor": {
+    "text_1": "Kļūsti par mūsu īpašo sponsoru",
+    "text_2": "Atbalsts QR Generator Pro un saņemt savu zīmolu Featured pastāvīgi uz mūsu platformas. Ideāls instrumentu uzņēmumiem, programmatūras uzņēmumiem, vai ikvienam, kas vēlas sasniegt mūsu globālo auditoriju.",
+    "text_3": "Vienreizējs maksājums",
+    "text_4": "Darbības laika sponsorēšana",
+    "text_5": "Jūsu logo labi attēlots",
+    "text_6": "Saite uz jūsu tīmekļa vietni",
+    "text_7": "Ekskluzīva sponsorēšana (tikai 1 sponsors)",
+    "text_8": "Sasniegt tūkstošiem ikdienas lietotāju",
+    "text_9": "Nodrošiniet savu sponsoru",
+    "text_10": "Pirmais nāk, pirmais kalpoja. Pieejama tikai viena sponsora slota."
+  }
+}

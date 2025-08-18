@@ -1,0 +1,142 @@
+{
+  "seo": {
+    "title": "Gratis QR Code Generator met Logo en Aangepast Ontwerp . Professionele QR Codes Online",
+    "description": "Maak professionele QR codes met aangepaste logo's, kleuren en ontwerpen. Gratis online QR code generator voor visitekaartjes, menu's, evenementen en marketing campagnes. Downloaden van hoogwaardige PNG, SVG-formaten direct.",
+    "keywords": "QR codegenerator, aangepaste QR codes, QR code met logo, gratis QR generator, zakelijke QR codes, marketing QR codes, contactloos menu QR, event QR codes, professioneel QR ontwerp",
+    "codinasion": "Codinasie",
+    "og_title": "Professionele QR Code Generator met aangepaste logo en ontwerp",
+    "og_description": "Genereer prachtige QR codes met uw merklogo en aangepaste kleuren. Perfect voor bedrijven, restaurants, evenementen en marketingcampagnes. Gratis en direct downloads."
+  },
+  "navbar": {
+    "text_1": "QR Generator Pro",
+    "text_2": "Kenmerken",
+    "text_3": "Cases gebruiken",
+    "text_4": "Evaluaties",
+    "text_5": "Aan de slag gratis"
+  },
+  "hero": {
+    "text_1": "Professionele QR-codes in seconden aanmaken",
+    "text_2": "Genereer verbluffende QR codes met aangepaste logo's, kleuren en ontwerpen. Perfect voor bedrijven, evenementen, marketingcampagnes en contactloze ervaringen wereldwijd.",
+    "text_3": "Vrij beginnen aanmaken",
+    "text_4": "100% vrij",
+    "text_5": "Geen registratie",
+    "text_6": "Direct downloaden"
+  },
+  "component": {
+    "text_1": "Uw QR-code genereren",
+    "text_2": "Inhoud (URL, tekst, e-mail, telefoon, wifi, enz.)",
+    "text_3": "Voer URL, tekst, e-mail, telefoonnummer of inhoud in",
+    "text_4": "Voorbeeld",
+    "text_5": "Foutcorrectieniveau",
+    "text_6": "Laag (7%)",
+    "text_7": "Middel (15%)",
+    "text_8": "Kwartiel (25%)",
+    "text_9": "Hoog (30%)",
+    "text_10": "Opmaak downloaden",
+    "text_11": "PNG (aanbevolen)",
+    "text_12": "JPG",
+    "text_13": "SVG (Vector)",
+    "text_14": "Voorgrondkleur",
+    "text_15": "Achtergrondkleur",
+    "text_16": "Grootte",
+    "text_17": "Logo uploaden (facultatief)",
+    "text_18": "Sleep uw logo of klik om te bladeren",
+    "text_19": "Aanbevolen: Vierkante afbeeldingen, PNG/JPG, max 2MB",
+    "text_20": "Bestand kiezen",
+    "text_21": "Logo verwijderen",
+    "text_22": "Voorbeeld live",
+    "text_23": "Logo toegevoegd",
+    "text_24": "Content invoeren om QR-code te genereren",
+    "text_25": "QR-code downloaden",
+    "text_26": "Hoogwaardige kwaliteit",
+    "text_27": "formaat",
+    "text_28": "Grootte",
+    "text_29": "Foutniveau",
+    "text_30": "Aangepast logo inbegrepen"
+  },
+  "bmc": {
+    "text_1": "Geniet je van QR Generator Pro?",
+    "text_2": "Als deze tool heeft u tijd bespaard en hielp uw bedrijf, overwegen het kopen van mij een koffie! Uw ondersteuning helpt deze tool vrij en continu verbeterd te houden.",
+    "text_3": "Koop me een koffie"
+  },
+  "features": {
+    "text_1": "Krachtige functies",
+    "text_2": "Alles wat u nodig hebt om professionele QR-codes voor uw bedrijf, evenementen en marketingcampagnes te creëren.",
+    "text_3": "Aangepaste Logo-integratie",
+    "text_4": "Upload uw merklogo en integreer het naadloos in uw QR-codes voor verbeterde merkherkenning.",
+    "text_5": "Aangepaste kleuren & ontwerp",
+    "text_6": "Kies uit onbeperkt kleurencombinaties en ontwerpopties om uw merkidentiteit perfect aan te passen.",
+    "text_7": "Downloads van hoge kwaliteit",
+    "text_8": "Download QR codes in meerdere formaten (PNG, SVG, PDF) met schaalbare vectorkwaliteit.",
+    "text_9": "Privacygericht",
+    "text_10": "Uw gegevens blijven veilig. We slaan uw QR-code-inhoud of persoonlijke informatie niet op.",
+    "text_11": "Bliksemsnel",
+    "text_12": "Genereer professionele QR codes direct met onze geoptimaliseerde rendering motor.",
+    "text_13": "Globale compatibiliteit",
+    "text_14": "Werkt met alle internationale karakters en ondersteunt wereldwijde QR code standaarden."
+  },
+  "use_cases": {
+    "text_1": "Perfect voor elke industrie",
+    "text_2": "Van restaurants tot evenementen, onze QR-codes passen zich aan uw specifieke behoeften en behoeften van de industrie.",
+    "text_3": "Restaurant Menu's",
+    "text_4": "Contactloze eetervaringen",
+    "text_5": "Tickets voor evenementen",
+    "text_6": "Naadloze check-in processen",
+    "text_7": "Visitekaartjes",
+    "text_8": "Digitale netwerkoplossingen",
+    "text_9": "App-downloads",
+    "text_10": "Directe app store links",
+    "text_11": "Betalingslinks",
+    "text_12": "Snelle verwerking van betalingen",
+    "text_13": "Locatie delen",
+    "text_14": "GPS-coördinaten en -kaarten"
+  },
+  "fun_facts": {
+    "text_1": "QR Code Revolutie",
+    "text_2": "De wereld heeft QR codes als nooit tevoren omarmd. Dit is waarom ze essentieel zijn voor moderne zaken.",
+    "text_3": "QR-codes Dagelijks gescand",
+    "text_4": "Mobiele gebruikers Scan QR-codes",
+    "text_5": "Landen die QR-codes gebruiken",
+    "text_6": "Gemiddelde scantijd"
+  },
+  "historical_context": {
+    "text_1": "De QR-codereis",
+    "text_2": "Geboorte in Japan",
+    "text_3": "QR codes werden uitgevonden door Denso Wave voor het bijhouden van auto-onderdelen in Toyota fabrieken.",
+    "text_4": "Pandemische Boom",
+    "text_5": "COVID-19 versneld QR code adoptie voor contactloze interacties wereldwijd.",
+    "text_6": "Vandaag",
+    "text_7": "Algemene standaard",
+    "text_8": "QR codes zijn nu essentieel voor zakelijke, marketing en digitale ervaringen wereldwijd."
+  },
+  "testimonials": {
+    "text_1": "Wat onze gebruikers zeggen",
+    "text_2": "Sluit je aan bij duizenden tevreden gebruikers uit de hele wereld die QR Generator Pro vertrouwen.",
+    "text_3": "Sarah Chen",
+    "text_4": "Marketing Director",
+    "text_5": "Deze QR generator heeft ons talloze uren bespaard op onze wereldwijde campagne. De aangepaste logo functie maakte onze codes direct herkenbaar!",
+    "text_6": "Ahmed Hassan",
+    "text_7": "Restauranteigenaar",
+    "text_8": "Perfect voor ons contactloos menu. Gemakkelijk te gebruiken, professionele resultaten elke keer. Onze klanten houden van het schone ontwerp!",
+    "text_9": "Maria Rodriguez",
+    "text_10": "Evenementcoördinator",
+    "text_11": "Gebruikte dit voor 50+ internationale evenementen. De bulk generatie functie en aangepaste kleuren passen perfect bij ons merk."
+  },
+  "cta": {
+    "text_1": "Klaar om geweldige QR-codes aan te maken?",
+    "text_2": "Word lid van miljoenen gebruikers wereldwijd die professionele QR codes maken met onze gratis generator.",
+    "text_3": "Beginnen met aanmaken - Het is gratis!"
+  },
+  "sponsor": {
+    "text_1": "Word onze exclusieve sponsor",
+    "text_2": "Steun QR Generator Pro en krijg uw merk permanent op ons platform. Perfect voor gereedschapsbedrijven, softwarebedrijven of iedereen die ons wereldwijde publiek wil bereiken.",
+    "text_3": "Eenmalige betaling",
+    "text_4": "Levenslange sponsoring",
+    "text_5": "Uw logo wordt prominent weergegeven",
+    "text_6": "Link naar uw website",
+    "text_7": "Exclusieve sponsoring (slechts 1 sponsor)",
+    "text_8": "Duizenden dagelijkse gebruikers bereiken",
+    "text_9": "Beveilig uw sponsorschap",
+    "text_10": "Als eerste, eerst gediend. Slechts één sponsor slot beschikbaar."
+  }
+}

@@ -1,0 +1,142 @@
+{
+  "seo": {
+    "title": "Generator de cod QR gratuit cu logo & personalizat design ",
+    "description": "Creați coduri QR profesionale cu logo-uri personalizate, culori și modele. Generator de cod QR gratuit online pentru cărți de vizită, meniuri, evenimente și campanii de marketing. Descărcați imediat formate PNG de înaltă calitate, SVG.",
+    "keywords": "Generator QR cod, coduri QR personalizate, cod QR cu logo, generator QR gratuit, coduri QR de afaceri, coduri QR marketing, meniu contactless QR, coduri QR eveniment, design QR profesional",
+    "codinasion": "Codinazia",
+    "og_title": "Generator de cod QR profesional cu logo personalizat & design",
+    "og_description": "Generează coduri uimitoare QR cu logo-ul de brand și culori personalizate. Perfect pentru afaceri, restaurante, evenimente și campanii de marketing. Descărcări gratuite și instantanee."
+  },
+  "navbar": {
+    "text_1": "Generator QR Pro",
+    "text_2": "Caracteristici",
+    "text_3": "Cazuri de utilizare",
+    "text_4": "Revizuiri",
+    "text_5": "Eliberaţi - vă"
+  },
+  "hero": {
+    "text_1": "Creează coduri QR profesionale în secunde",
+    "text_2": "Generează coduri uimitoare QR cu logo-uri personalizate, culori și modele. Perfect pentru întreprinderi, evenimente, campanii de marketing și experiențe fără contact la nivel mondial.",
+    "text_3": "Începe crearea liberă",
+    "text_4": "100% gratuit",
+    "text_5": "Fără înregistrare",
+    "text_6": "Descărcare instantanee"
+  },
+  "component": {
+    "text_1": "Generează codul QR",
+    "text_2": "Conținut (URL, Text, Email, Telefon, WiFi, etc.)",
+    "text_3": "Introduceți URL, text, e-mail, număr de telefon sau orice conținut",
+    "text_4": "Exemplu",
+    "text_5": "Nivel de corectare a erorilor",
+    "text_6": "Scădere (7%)",
+    "text_7": "Mediu (15%)",
+    "text_8": "Quartil (25%)",
+    "text_9": "Ridicat (30%)",
+    "text_10": "Format de descărcare",
+    "text_11": "PNG (recomandat)",
+    "text_12": "JPG",
+    "text_13": "SVG (Vector)",
+    "text_14": "Culoare prim plan",
+    "text_15": "Culoare fundal",
+    "text_16": "Dimensiune",
+    "text_17": "Upload Logo (Opțional)",
+    "text_18": "Glisați & picătură logo-ul sau faceți clic pentru a naviga",
+    "text_19": "Recomandat: Imagini pătrate, PNG/JPG, max 2MB",
+    "text_20": "Alegeți fișierul",
+    "text_21": "Elimină logo",
+    "text_22": "Previzualizare live",
+    "text_23": "Logo adăugat",
+    "text_24": "Introduceți conținutul pentru a genera codul QR",
+    "text_25": "Descarcă codul QR",
+    "text_26": "De înaltă calitate",
+    "text_27": "format",
+    "text_28": "Dimensiune",
+    "text_29": "Nivel eroare",
+    "text_30": "Sigla personalizată inclusă"
+  },
+  "bmc": {
+    "text_1": "Îţi place QR Generator Pro?",
+    "text_2": "Dacă acest instrument a salvat timp și a ajutat afacerea ta, ia în considerare cumpararea-mi o cafea! Sprijinul dvs. ajută la păstrarea acestui instrument liber și îmbunătățit în permanență.",
+    "text_3": "Cumpără-mi o cafea."
+  },
+  "features": {
+    "text_1": "Caracteristici puternice",
+    "text_2": "Tot ce aveți nevoie pentru a crea coduri profesionale QR pentru afaceri, evenimente și campanii de marketing.",
+    "text_3": "Integrare logo personalizat",
+    "text_4": "Încărcați logo-ul de brand și integrați-l perfect în codurile QR pentru recunoașterea îmbunătățită a mărcii.",
+    "text_5": "Culori personalizate & design",
+    "text_6": "Alegeți din combinații de culori nelimitate și opțiuni de design pentru a se potrivi perfect identitatea mărcii dumneavoastră.",
+    "text_7": "Descărcări de înaltă calitate",
+    "text_8": "Descărcaţi coduri QR în mai multe formate (PNG, SVG, PDF) cu calitate vectorială scalabilă.",
+    "text_9": "Confidențialitate focalizată",
+    "text_10": "Datele tale rămân sigure. Nu stocăm conţinutul de cod QR sau informaţiile personale.",
+    "text_11": "Fulger rapid",
+    "text_12": "Generați coduri QR profesionale instantaneu cu motorul nostru de redare optimizat.",
+    "text_13": "Compatibilitate globală",
+    "text_14": "Funcționează cu toate personajele internaționale și sprijină standardele de cod QR la nivel mondial."
+  },
+  "use_cases": {
+    "text_1": "Perfect pentru orice industrie",
+    "text_2": "De la restaurante la evenimente, codurile noastre QR se adaptează nevoilor dumneavoastră specifice și cerințelor industriei.",
+    "text_3": "Restaurant Menus",
+    "text_4": "Experiențe de mese fără contact",
+    "text_5": "Bilete pentru evenimente",
+    "text_6": "Procese de verificare fără sudură",
+    "text_7": "Carte de vizită",
+    "text_8": "Soluții de rețele digitale",
+    "text_9": "Descărcări aplicații",
+    "text_10": "Legături directe de magazin de aplicații",
+    "text_11": "Linkuri de plată",
+    "text_12": "Prelucrarea rapidă a plăților",
+    "text_13": "Partajare locație",
+    "text_14": "Coordonate și hărți GPS"
+  },
+  "fun_facts": {
+    "text_1": "Revoluția codului QR",
+    "text_2": "Lumea a acceptat coduri QR ca niciodată înainte. Iată de ce sunt esențiale pentru afaceri moderne.",
+    "text_3": "Coduri QR Scanate zilnic",
+    "text_4": "Utilizatori mobili Scanează coduri QR",
+    "text_5": "Ţări care utilizează coduri QR",
+    "text_6": "Timpul mediu de scanare"
+  },
+  "historical_context": {
+    "text_1": "Călătoria codului QR",
+    "text_2": "Naștere în Japonia",
+    "text_3": "Codurile QR au fost inventate de Denso Wave pentru urmărirea pieselor auto din fabricile Toyota.",
+    "text_4": "Bum pandemic",
+    "text_5": "COVID-19 accelerat Adoptarea codului QR pentru interacţiuni fără contact la nivel mondial.",
+    "text_6": "Astăzi",
+    "text_7": "Standard global",
+    "text_8": "Codurile QR sunt acum esențiale pentru experiențele comerciale, comerciale și digitale la nivel mondial."
+  },
+  "testimonials": {
+    "text_1": "Ce spun utilizatorii noştri",
+    "text_2": "Alăturați-vă mii de utilizatori mulțumiți din întreaga lume care au încredere QR Generator Pro.",
+    "text_3": "Sarah Chen",
+    "text_4": "Director de marketing",
+    "text_5": "Acest generator QR ne-a salvat nenumărate ore în campania noastră globală. Caracteristica logo personalizat a făcut codurile noastre instantaneu recunoscut!",
+    "text_6": "Ahmed Hassan",
+    "text_7": "Proprietarul restaurantului",
+    "text_8": "Perfect pentru meniul nostru contactless. Ușor de utilizat, rezultate profesionale de fiecare dată. Clienţilor noştri le place designul curat!",
+    "text_9": "Maria Rodriguez",
+    "text_10": "Coordonator eveniment",
+    "text_11": "Folosit acest lucru pentru 50+ evenimente internaționale. Caracteristica de generare în vrac și culori personalizate se potrivesc perfect brand-ul nostru."
+  },
+  "cta": {
+    "text_1": "Gata pentru a crea coduri QR uimitoare?",
+    "text_2": "Alăturați-vă milioane de utilizatori din întreaga lume care creează coduri QR profesionale cu generatorul nostru gratuit.",
+    "text_3": "Începe să creezi acum - E gratis!"
+  },
+  "sponsor": {
+    "text_1": "Deveniţi Sponsorul nostru exclusiv",
+    "text_2": "Suport QR Generator Pro și de a lua brand-ul prezentat permanent pe platforma noastră. Perfect pentru companii de instrumente, companii de software, sau oricine dorește să ajungă la publicul nostru global.",
+    "text_3": "Plata unică",
+    "text_4": "Sponsorizare pe viaţă",
+    "text_5": "Logo-ul dvs. vizibil afișat",
+    "text_6": "Link către site-ul dumneavoastră",
+    "text_7": "Sponsorizare exclusivă (doar 1 sponsor)",
+    "text_8": "Ajunge la mii de utilizatori zilnici",
+    "text_9": "Asiguraţi - vă sponsorizarea",
+    "text_10": "Primul venit, primul servit. Doar un singur slot sponsor disponibil."
+  }
+}

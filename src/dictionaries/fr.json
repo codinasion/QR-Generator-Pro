@@ -1,0 +1,142 @@
+{
+  "seo": {
+    "title": "Générateur gratuit de code QR avec le logo et le design personnalisé",
+    "description": "Créez des codes QR professionnels avec des logos, des couleurs et des designs personnalisés. Générateur de code QR gratuit en ligne pour les cartes de visite, les menus, les événements et les campagnes de marketing. Téléchargez instantanément des formats PNG, SVG de haute qualité.",
+    "keywords": "Générateur de code QR, codes QR personnalisés, code QR avec logo, générateur QR gratuit, codes QR d'affaires, codes QR marketing, menu sans contact QR, codes QR d'événement, conception QR professionnelle",
+    "codinasion": "Codinasion",
+    "og_title": "Générateur professionnel de code QR avec logo et design personnalisés",
+    "og_description": "Générez de superbes codes QR avec votre logo de marque et des couleurs personnalisées. Parfait pour les entreprises, les restaurants, les événements et les campagnes marketing. Téléchargements gratuits et instantanés."
+  },
+  "navbar": {
+    "text_1": "Générateur QR Pro",
+    "text_2": "Caractéristiques",
+    "text_3": "Cas d'utilisation",
+    "text_4": "Examens",
+    "text_5": "Commencez gratuitement"
+  },
+  "hero": {
+    "text_1": "Créer des codes QR professionnels en secondes",
+    "text_2": "Générer de superbes codes QR avec des logos, des couleurs et des designs personnalisés. Parfait pour les entreprises, les événements, les campagnes marketing et les expériences sans contact dans le monde entier.",
+    "text_3": "Commencez à créer gratuitement",
+    "text_4": "100% Gratuit",
+    "text_5": "Aucune inscription",
+    "text_6": "Téléchargement instantané"
+  },
+  "component": {
+    "text_1": "Générez votre code QR",
+    "text_2": "Contenu (URL, texte, e-mail, téléphone, WiFi, etc.)",
+    "text_3": "Saisissez URL, texte, courriel, numéro de téléphone ou tout contenu",
+    "text_4": "Exemple",
+    "text_5": "Niveau de correction d'erreur",
+    "text_6": "Faible (7 %)",
+    "text_7": "Moyenne (15 %)",
+    "text_8": "Quartil (25%)",
+    "text_9": "Élevé (30 %)",
+    "text_10": "Format de téléchargement",
+    "text_11": "PNG (Recommandé)",
+    "text_12": "JPG",
+    "text_13": "SVG (Vecteur)",
+    "text_14": "Couleur du premier plan",
+    "text_15": "Couleur de fond",
+    "text_16": "Taille",
+    "text_17": "Télécharger le logo (facultatif)",
+    "text_18": "Faites glisser et déposez votre logo ou cliquez pour parcourir",
+    "text_19": "Recommandé : Images carrées, PNG/JPG, max 2MB",
+    "text_20": "Choisir un fichier",
+    "text_21": "Supprimer le logo",
+    "text_22": "Aperçu en direct",
+    "text_23": "Logo ajouté",
+    "text_24": "Saisissez le contenu pour générer le code QR",
+    "text_25": "Télécharger le code QR",
+    "text_26": "Haute qualité",
+    "text_27": "présentation",
+    "text_28": "Taille",
+    "text_29": "Niveau d'erreur",
+    "text_30": "Logo personnalisé inclus"
+  },
+  "bmc": {
+    "text_1": "Vous aimez QR Generator Pro ?",
+    "text_2": "Si cet outil vous a permis de gagner du temps et d'aider votre entreprise, envisagez de m'acheter un café! Votre support aide à garder cet outil libre et continuellement amélioré.",
+    "text_3": "Achetez-moi un café"
+  },
+  "features": {
+    "text_1": "Caractéristiques puissantes",
+    "text_2": "Tout ce dont vous avez besoin pour créer des codes QR professionnels pour votre entreprise, vos événements et vos campagnes marketing.",
+    "text_3": "Intégration personnalisée du logo",
+    "text_4": "Téléchargez le logo de votre marque et intégrez-le parfaitement dans vos codes QR pour une meilleure reconnaissance de la marque.",
+    "text_5": "Couleurs et conception personnalisées",
+    "text_6": "Choisissez parmi des combinaisons de couleurs illimitées et des options de conception pour correspondre parfaitement à votre identité de marque.",
+    "text_7": "Téléchargements de haute qualité",
+    "text_8": "Télécharger les codes QR en plusieurs formats (PNG, SVG, PDF) avec une qualité vectoriel évolutive.",
+    "text_9": "Protection des renseignements personnels",
+    "text_10": "Vos données restent sécurisées. Nous ne conservons pas votre contenu de code QR ni vos renseignements personnels.",
+    "text_11": "Éclair rapide",
+    "text_12": "Générez instantanément des codes QR professionnels avec notre moteur de rendu optimisé.",
+    "text_13": "Compatibilité mondiale",
+    "text_14": "Fonctionne avec tous les caractères internationaux et prend en charge les normes QR code mondiales."
+  },
+  "use_cases": {
+    "text_1": "Parfait pour chaque industrie",
+    "text_2": "Des restaurants aux événements, nos codes QR s'adaptent à vos besoins spécifiques et aux exigences de l'industrie.",
+    "text_3": "Menus du restaurant",
+    "text_4": "Expériences culinaires sans contact",
+    "text_5": "Billets d'événement",
+    "text_6": "Processus d'enregistrement sans soudure",
+    "text_7": "Cartes d'affaires",
+    "text_8": "Solutions de réseau numérique",
+    "text_9": "Téléchargements d'applications",
+    "text_10": "Liens d'app store directs",
+    "text_11": "Liens de paiement",
+    "text_12": "Traitement rapide des paiements",
+    "text_13": "Partage des emplacements",
+    "text_14": "Coordonnées et cartes GPS"
+  },
+  "fun_facts": {
+    "text_1": "Révolution du code QR",
+    "text_2": "Le monde a adopté les codes QR comme jamais auparavant. Voilà pourquoi ils sont essentiels pour les affaires modernes.",
+    "text_3": "Codes QR analysés quotidiennement",
+    "text_4": "Les utilisateurs mobiles scannent les codes QR",
+    "text_5": "Pays utilisant des codes QR",
+    "text_6": "Temps moyen de balayage"
+  },
+  "historical_context": {
+    "text_1": "Le voyage en QR Code",
+    "text_2": "Naissance au Japon",
+    "text_3": "Les codes QR ont été inventés par Denso Wave pour le suivi des pièces automobiles dans les usines Toyota.",
+    "text_4": "Boom pandémique",
+    "text_5": "COVID-19 accéléré Adoption du code QR pour les interactions sans contact dans le monde entier.",
+    "text_6": "Aujourd'hui",
+    "text_7": "Norme mondiale",
+    "text_8": "Les codes QR sont maintenant essentiels pour les expériences commerciales, marketing et numériques à l'échelle mondiale."
+  },
+  "testimonials": {
+    "text_1": "Ce que disent nos utilisateurs",
+    "text_2": "Rejoignez des milliers d'utilisateurs satisfaits du monde entier qui font confiance à QR Generator Pro.",
+    "text_3": "Sarah Chen",
+    "text_4": "Directeur du marketing",
+    "text_5": "Ce générateur QR nous a sauvé d'innombrables heures sur notre campagne mondiale. Le logo personnalisé a rendu nos codes immédiatement reconnaissables !",
+    "text_6": "Ahmed Hassan",
+    "text_7": "Propriétaire du restaurant",
+    "text_8": "Parfait pour notre menu sans contact. Facile à utiliser, résultats professionnels à chaque fois. Nos clients adorent le design propre!",
+    "text_9": "Maria Rodriguez",
+    "text_10": "Coordonnateur de la manifestation",
+    "text_11": "Utilisé pour plus de 50 événements internationaux. La fonction de génération en vrac et les couleurs personnalisées correspondent parfaitement à notre marque."
+  },
+  "cta": {
+    "text_1": "Prêt à créer des codes QR étonnants?",
+    "text_2": "Rejoignez des millions d'utilisateurs dans le monde entier qui créent des codes QR professionnels avec notre générateur gratuit.",
+    "text_3": "Commencez à créer dès maintenant - C'est gratuit !"
+  },
+  "sponsor": {
+    "text_1": "Devenez notre commanditaire exclusif",
+    "text_2": "Soutenez QR Generator Pro et obtenez votre marque en permanence sur notre plateforme. Parfait pour les entreprises d'outils, les entreprises de logiciels ou toute personne souhaitant atteindre notre public mondial.",
+    "text_3": "Paiement unique",
+    "text_4": "Parrainage à vie",
+    "text_5": "Votre logo bien en vue",
+    "text_6": "Lien vers votre site Web",
+    "text_7": "Parrainage exclusif (un seul parrain)",
+    "text_8": "Atteindre des milliers d'utilisateurs quotidiens",
+    "text_9": "Assurez votre parrainage",
+    "text_10": "Premier arrivé, premier servi. Un seul emplacement de sponsor disponible."
+  }
+}
